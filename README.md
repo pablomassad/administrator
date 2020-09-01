@@ -1,7 +1,7 @@
 ssh mituser@192.168.43.167 -p 2543
 contraseña: Mitrol40\*\*
 
-git repository = administrator.git
+git repository = administrator.git ok
 
 # Administrador ACD (administrador)
 
