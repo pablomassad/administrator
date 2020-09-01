@@ -1,0 +1,80 @@
+Armar un servidor API REST
+Services:
+Login => sql
+Consulta de campañas de BOTs x usuario (dos archivos .md y dos .csv de respuesta) => JSON (pagina web)
+
+
+INTENCIONES => /(##(\sintent:(.+?))\n\n)/gms
+
+Buscador de intencion / ejemplos / respuestas (2x)
+Ej:
+	{
+	  'intencionA':{
+  		ejemplos:[
+  		],
+  		respuesta:""
+    },
+    'intencionB':{
+  		ejemplos:[
+  		],
+  		respuesta:""
+    }
+	}
+
+
+Al salir de la edicion pide guardar  => manda cambios JSON modificado al servicio.
+El servicio guarda la informacion modificada en JSON:
+ - Abro archivo NLU, merge y grabo el mismo archivo (averiguar si se dejan copias y grabar LOG auditoria)
+ - Abro archivo CSV, merge y grabo el mismo archivo
+
+ (Los archivos deben ir sin acentos y en minusculas)
+
+
+Existe otro archivo nlu.md del bot master que tiene una intencion particualar llamada info
+A esa INFO hay que concatenarle todos los ejemplos de todas la intenciones del nlu.md original
+
+Existen alguna excepciones de grabacion en el INFO:
+Las intenciones que empiecen con @ NO se graban en el master
+En el front (no se debe mostrar el @)
+
+
+
+
+
+
+Boton de "Entrenamiento TEST" =>
+Llama a API => metodo POST
+body:{
+  domain: file
+  config: file
+  nlu: Poner todo el archivo NLU (string)
+  response: file
+  stories: file
+  force:true,
+  save_to_default:true
+}
+(Puede demorar 20min......)
+(modificar express para TIMEOUT 20min)
+(agregar en cliente barra de progreso)
+
+return => string (nombre del modelo)
+
+
+
+
+
+
+
+ejecutar prueba o entrenamiento x API
+(Averiguar callback de finalizacion de training)
+Cuando finaliza ejecuta switch de modelo x API
+(Mensaje en cliente de PROCESAMIENTO en curso)
+
+Boton de "Entrenamiento PROD" => ejecuta lo mismo que testing pero en otro entorno x API diferente
+
+
+LOG de cada accion x usuario
+
+Luego del entrenamiento:=> probar intenciones con ejemplos
+
+

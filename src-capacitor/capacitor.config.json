@@ -1,0 +1,7 @@
+{
+  "appId": "com.mitrol.administrador",
+  "appName": "Administrador ACD",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}

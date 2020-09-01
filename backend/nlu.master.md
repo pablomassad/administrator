@@ -1,0 +1,2555 @@
+
+## intent:afirma
+- si
+- yes
+- dale
+- bueno
+- ok
+- si
+- esta bien
+- oka
+- vale
+- si quiero seguir con la reserva
+- si me gustaria seguir con la reserva
+- quiero seguir con la reserva
+- me gustaria continuar con la reserva
+- ok sigamos con la reserva
+- dale prosigamos con la reserva
+- quiero seguir con la reserva
+- esta bien sigamos con la reserva
+- quiero continuar
+- quiero continuar con la reserva
+- sigamos con la reserva
+- sigamos
+
+## intent:info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- puedo afiliar a mi mama
+- a quien puedo afiliar
+- puedo afiliar a mi abuela
+- yo no tengo hijos puedo pasarlo a mi hermano menor
+- quisiera ingresar a mi hermana menos a caja es posible
+- hermanos de que edades puedo afiliar?
+- gracias tengo una duda yo quiero afiliar a mi hija pero es mayor de edad la puedo afiliar
+- hagame un favor ... puedo afiliar a mi sobrina y a mis dos hermanos
+- buenos dias en donde puedo afiliarlos y a quienes puedo afiliar
+- buenas en donde puedo afiliarlos y a quienes puedo afiliar
+- me cobran por afiliar a mi mama
+- cobran por afiliar mi grupo familiar
+- tiene costo la afiliacion de mis familiares
+- costo afiliar
+- costo afiliacion
+- valor afiliar
+- valor afiliacion
+- precio afiliar
+- precio afiliacion
+- ?la afiliacion de beneficiarios tiene costo?
+- agente
+- como aplican la categoria
+- de donde sale mi categoria
+- quien registra mi categoria de afiliado
+- como calculan mi categoria de afiliacion
+- como se establece mi categoria de afiliado
+- ?como se establece mi categoria de afiliacion?
+- quien establece mi categoria de afiliado?
+- como se determina mi categoria de afiliado?
+- ?como se establece mi categoria de afiliacion?
+- quien registra mi categoria
+- como se registra mi categoria de afiliado
+- cuando se establece mi categoria de afiliado
+- como aplican la categoria
+- quien registra mi categoria de afiliado?
+- de donde sale mi categoria
+- ?como se establece mi categoria de afiliacion?
+- afiliacion de beneficiarios
+- requisitos para la afiliacion de mis hijos
+- afiliacion de mis hijos
+- como afilio a mis hijos
+- como hago para afiliar a mi grupo familiar
+- y para realizar la afiliacion de familiares
+- como afilio
+- proceso afiliacion
+- ?como puedo afiliar a mis beneficiarios?
+- ?como puedo afiliar a mis beneficiarios?
+- conocer categoria de afiliado
+- concer categoria
+- categoria afiliacion
+- cual es mi categoria
+- saber categoria
+- que categoria de afiliado tengo?
+- cual es mi categoria de afiliacion?
+- como valido mi categoria de afiliacion
+- en que categoria estoy?
+- ?cual es mi categoria de afiliacion?
+- por que mi categoria no le aplica a mis invitados
+- puedo tener invitados
+- puedo llevar a mi familia con mi categoria
+- puedo llevar mis amigos con mi categoria
+- pueden ir personas conmigo y aplicar mi categoria
+- que papeles debo llevar para afiliar a mi hija
+- como puedo afiliar a mis trabajadores
+- cuales son mis beneficiarios
+- me gustaria saber si mi hijo esta en la caja de compensacion
+- aqui esta registrado mi hijo
+- cuantos beneficiarios tengo
+- quienes estan inscritos
+- como se q personas estan en mi nucleo familiar
+- quiero saber a quien tengo como beneficiario
+- consultar grupo familiar
+- conocer grupo familiar
+- saber grupo familiar
+- ?a traves de que medio puedo consultar la composicion de mi grupo familiar?
+- en donde puedo consultar la composicion de mi grupo familiar?
+- quienes estan inscriptos en la caja de compensaciones?
+- a quien tengo como beneficiario en la caja de compensacion?
+- lagomar hay hamburguesas
+- lagomar hay perros calientes
+- lagomar hay pizzas
+- ?en lagomar hay comidas rapidas?
+- se pueden comer hamburguesas en lagomar?
+- se pueden comer perros calientes en lagomar?
+- horario de desayunos en lagomar
+- hora sirven los desayunos en lagomar
+- horario de almuerzo en lagomar
+- hora sirven los almuerzos en lagomar
+- horario de la cena en lagomar
+- hora sirven la cena en lagomar
+- horario del restaurante en lagomar
+- hora sirven los buffets
+- horario de desayunos en lago mar
+- hora sirven los desayunos en lago mar
+- horario de almuerzo en lago mar
+- hora sirven los almuerzos en lago mar
+- horario de la cena en lago mar
+- hora sirven la cena en lago mar
+- horario del restaurante en lago mar
+- horario de desayunos en lagosol
+- hora sirven los desayunos en lagosol
+- horario de almuerzo en lagosol
+- hora sirven los almuerzos en lagosol
+- horario de la cena en lagosol
+- hora sirven la cena en lagosol
+- horario del restaurante en lagosol
+- horario de desayunos en lago sol
+- hora sirven los desayunos en lago sol
+- horario de almuerzo en lago sol
+- hora sirven los almuerzos en lago sol
+- horario de la cena en lago sol
+- hora sirven la cena en lago sol
+- horario del restaurante en lago sol
+- menu para ninos pequenos
+- menu infantil
+- como es la alimentacion para ninos
+- alimentos hay para ninos
+- menu infantil
+- menu ninos
+- cajita feliz
+- ?cuentan con menu para ninos?
+- que tipos de bebidas hay en los hoteles
+- que bebidas incluyen en los planes
+- bebidas con los planes
+- que bebidas dan en lagomar
+- que bebidas dan en lagosol
+- que bebidas dan en lago mar
+- que bebidas dan en lago sol
+- los planes incluyen bebidas?
+- lagomar hay platos a la carta
+- lagosol hay platos a la carta
+- pueden pedir alimentos adicionales
+- platos a la carta
+- menu a la carta
+- servicio platos cartar
+- como son los snacks en lagomar
+- horario snacks ilimitados
+- como son los refrigerios en lagomar
+- refrigerio en lagomar
+- merienda en lagomar
+- gastronomia en lagomar
+- cgastronomia en lagosol
+- gastronomia en los hoteles
+- tipo de alimentacion ofrecen en los hoteles
+- alimentacion va incluida en los planes
+- buffet
+- barras de ensaladas
+- barras de frutas
+- cual es el menu
+- como es la gastronomia en lago mar
+- como es la gastronomia en lago sol
+- cual es el menu lago mar
+- cual es el menu lago sol
+- venden cocteles en los hoteles
+- venden cerveza en los hoteles
+- puntos de venta de licor en los hoteles
+- lagomar hay bebidas alcoholicas
+- lagomar hay bebidas alcoholicas
+- venden licor en los hoteles
+- licor en los hoteles
+- ?venden bebidas alcoholicas?
+- venden licor en los hoteles
+- venden cerveza en los hoteles
+- como me puedo comunicar con un asesor
+- a que hora atienden el chat
+- los sabados atienden el chat
+- los domingos atienden el chat
+- entre semana hasta que hora hay chat
+- horario servicio chat
+- que dias servicio chat
+- cuales son los horarios del chat?
+- sede puedo reservar
+- a que sede me puedo dirigir
+- cuales son las oficinas
+- horarios me atienden y en donde
+- listas sedes
+- menu lagosol
+- menu lagomar
+- menu lagosol
+- menu lagomar
+- cuales son las sedes
+- sede mas cercana
+- numero me puedo comunicar
+- horario atienden el call
+- me puedo comunicar con alguien
+- hora puedo llamar
+- linea de atencion
+- linea de quejas
+- linea telefonica servicio cliente
+- ?cuales son los horarios de atencion de linea telefonica?
+- en que horario puedo llamar?
+- hasta que hora puedo hablar con alguien?
+- quiero viajar a otra ciudad
+- convenios con otras cajas
+- otras cajas puedo ir
+- tomar servicios con otras cajas
+- cajas sin fronteras
+- convenio hoteles estelar
+- quiero saber que hoteles estelar tienen
+- disponibilida en hoteles estelar
+- donde estan los hoteles estelar
+- tarifas de hoteles estelar
+- descuento con hoteles estelar
+- que beneficios tiene hoteles estelar
+- que precio tiene hospedarse en un hotel estelar
+- informacion hoteles estelar
+- como puedo hace una reserva en hoteles estelar
+- llamar a hoteles estelar
+- numero de hoteles estelar
+- reserva hoteles estelar
+- como puedo reservar en los hoteles estelar?
+- quiero hacer una reserva en hoteles estelar
+- quiero llamar a hoteles estelar
+- como puedo reservar en hoteles estelar
+- quiero cotizar un vuelo
+- quiero ver oferta de hoteles
+- hay oferta de viajes?
+- me gustaria saber que paquetes turisticos tienen?
+- paquetes de turismo tienen?
+- me pueden dar informacion de cruceros?
+- se puede rentar autos baratos
+- vuelos nacionales
+- vuelos internacionales
+- beneficios tiene un credito de turismo
+- desembolso de un credito de turismo
+- beneficios credito turismo
+- que beneficios tiene credito turismo
+- cual es el desembolso de un credito turismo
+- documentos debo presentar para pedir un credito de turismo
+- documentos debo radicar para solicitar un credito de turismo
+- debo llevar al solicitar un credito de turismo
+- documentos credito turismo
+- que documentos necesito para solicitar un credito de turismo
+- que documentos debo tener para pedir un credito de turismo
+- aprobaron el credito de turismo que debo hacer
+- firmo libranza del credito de turismo
+- recibir el credito de turismo
+- firma libranza del credito de turismo
+- libranza del credito
+- libranza
+- solicitud de credito de turismo
+- que debo hacer para solicitar un credito de turismo
+- llamar para solicitar un credito de turismo
+- radicar una solicitud de credito turismo
+- como hago para solicitar un credito turismo
+- como puedo realizar una solicitud de credito turismo
+- requisitos para solicitar un credito de turismo
+- debo tener para poder solicitar un credito de tutismo
+- antiguedad en la empresa para la solicitud de credito de turismo
+- que requisitos tengo que tener para solicitar un credito de turismo
+- quiero solicitar un credito de turismo
+- me gustaria obtener un credito de turismo
+- me gustaria solicitar un credito de turismo
+- compensar credito para turismo
+- creditos de turismo
+- creditos para turismo
+- consiste el credito para turismo
+- credito turismo
+- cuanto tiempo tengo respuesta del credito de turismo
+- avisan la aprobacion de un credito de turismo
+- aprobacion de un credito de turismo
+- cuanto tiempo me avisan la aprobacion de un credito de turismo
+- en cuanto tiempo aprueban el credito de turismo
+- cuanto tardan en avisarme la aprobacion del credito turismo
+- cuanto tarda el credito turismo
+- como puedo actualizar datos
+- medios actualizar datos
+- como actualizo datos
+- datos actualizo
+- datos actualizar
+- infromacion personal
+- informacion personal
+- datos personal
+- actulizar datos
+- actulizar informacion
+- actulizar personal
+- yo no soy
+- ese no es mi nombre
+- no soy yo
+- no es mi nombre
+- no me llamo asi
+- yo no me llamo asi
+- chao
+- gracias por todo
+- gracais por todo
+- hasta pronto
+- bye
+- nos vemos
+- hasta luego
+- no es mas muchas gracias
+- es todo
+- xiao
+- no es mas nos vemos
+- gracias
+- gracias!
+- muchas gracias!
+- hola
+- buenos dias
+- buenas tardes
+- buenas noches
+- buenas
+- como estas
+- hi
+- hello
+- tardes
+- noches
+- trades
+- ola
+- hols
+- holi
+- oli
+- hola
+- hola
+- hola
+- puedo pagar mi reserva con libranza
+- me pueden hacer descuento de nomina
+- pago con libranza
+- quiero que me descuenten por nomina
+- pago reserva libranza
+- pago reserva descuento nomina
+- pagar reserva descuento nomina
+- hasta cuando tengo tiempo de pagar mi reserva
+- como garantizo mi reserva
+- cuando debo pagar mi reserva
+- en el hotel puedo pagar
+- tiempo pagar reserva
+- ?cuanto tiempo tengo para realizar el pago de mi reserva?
+- maximo cuando puedo hacer el pago?
+- cuales son los requisitos de transporte a lagosol
+- que condiciones hay para transporte
+- cual es el reglamente de transporte
+- terminos y condiciones transporte
+- condiciones de transporte lago sol
+- que requisitos tiene el transporte a lagosol
+- transporte lagosol
+- transporte lago sol
+- hora de salida bogota lagosol
+- hora de regreso lagosol bogota
+- a que hora sale el transporte a lagosol
+- como son los horarios del transporte en lagosol
+- que horarios de transporte tiene lagosol
+- que trae el pasadia
+- como es el pasadia
+- pasadia incluye alimentos
+- pasadia incluye refrigerio
+- pasadia incluye almuerzo
+- pasadia incluye parqueadero
+- pasadia incluye bicicletas acuaticas
+- cuanto vale el transporte a lagosol
+- cuando puedo comprar el transporte a lagosol
+- como es la compra del transporte
+- costo transporte lago sol
+- que precio tiene el transporte a lagosol
+- cuanto sale el transporte a lagosol
+- cuanto vale el transporte a lagosol
+- recomendaciones lagosol
+- que se debe llevar a lagosol
+- los bebes deben usar panal en la piscina
+- que recomendaciones me podes dar para pasadia
+- hay recomendaciones para pasadia?
+- los bebes tienen que usar panales en la piscina
+- un menor de dos anos paga transporte
+- los ninos deben pagar la tarifa de transporte
+- ninos se les cobra el transporte
+- transporte para ninos
+- los ninos pagan transporte?
+- a partir de que edad se paga transporte?
+- planes navidenos
+- plan para fin de ano
+- fiesta de san silvestre
+- planes fin de ano
+- plan de navidad en lagomar
+- plan de fin de ano en lagomar
+- plan de navidad en lagosol
+- plan de fin de ano en lagosol
+- plan de navidad en lago mar
+- plan de fin de ano en lago mar
+- plan de navidad en lago sol
+- plan de fin de ano en lago sol
+- si realizo cambios conservo la tarifa
+- si hay cambios en mi reserca la tarifa es la misma
+- puedo conservar la tarifa al hacer un cambio
+- cambios a mi reserva
+- modificacion de mi reserva
+- quiero cambiar mi reserva
+- como puedo modificar mi reserva
+- a quien acudir para cambiar reserva
+- cambiar reserva
+- como hago para hacer cambios a mi reserva
+- puedo reactivar mi reserva
+- puedo cancelar y reactivar mi reserva
+- si cancelo mi reserva la puedo reactivar
+- ?cuantas veces puedo cancelar y reactivar una reserva?
+- puedo ceder mi reserva
+- un familiar puede ir a cambio de mi
+- puedo pasar mi reserva a otra persona
+- puedo regalar mi reserva
+- ?puedo ceder la reserva a un familiar o amigo?
+- quiero ceder mi reserva a un amigo
+- puedo pasar mi reserva a un amigo
+- quiero regalar mi reserva
+- que precio tiene el hospedaje
+- cuanto vale la noche
+- cuanto vale el hospedaje
+- que precio tienen los planes
+- cuanto cuesta la noche
+- cuanto cuesta el hospedaje
+- cual es el valor del hospedaje
+- cual es el costo del hospedaje
+- mi nino de 3 anos paga
+- un nino menor de 5 anos paga
+- los ninos pagan tarifa
+- a partir de que edad pagan los ninos
+- cual es la tarifa para ninos
+- hasta cuantas personas pueden reservar
+- limite de invitados
+- hay un limite de personas que puedan reservar?
+- la reserva tiene un numero maximo de integrantes
+- la reserva tiene un limite de acompanantes?
+- hasta cuantas personas se puede reservar?
+- hay limite de acompanantes?
+- necesito cancelar mi reserva
+- como puedo cancelar una reserva
+- quiero cancelar mi reserva
+- que debo hacer para cancelar una reserva
+- como hago para cancelar mi reserva
+- tengo que cancelar mi reserva
+- quiero realizar una cancelacion de reserva
+- cancelacion de reservas
+- como puedo hacer mi reserva
+- puedo reservar por telefono
+- sede puedo reservar
+- puedo reservar online
+- donde hacer reserva
+- ?a traves de que otros medios puedo hacer mi reserva?
+- por donde puedo hacer mi reserva?
+- en donde reservo
+- puerdo reservar por internet
+- motivo de fuerza mayor
+- que debo hacer si tengo un motivo de fuerza mayor
+- por problemas medicos no puedo tomar la reserva
+- hay ofertas en los hoteles
+- que ofertas hay en lagosol
+- que ofertas hay el lagomar
+- tengo descuentos
+- que promociones hay
+- planear es ahorrar
+- tiene algun tipo de descuento?
+- no he podido reservar online
+- sale error en la pagina de internet
+- el portal de reservas esta fallando
+- me sale error al reservar por la pagina
+- la pagina de reservas esta fallando
+- tengo problemas con la reserva por internet
+- quien me ayuda con mi reserva online
+- quiero hacer una reserva por internet pero no he podido
+- que debo tener para hacer una reserva
+- que se necesita para reservar
+- es necesario el documento para reservar
+- requisito reserva
+- requisito reservar
+- como hago una reserva
+- ?que requisitos debo cumplir para realizar mi reserva?
+- que tengo que tener para hacer una reserva
+- cuales son los requisitos para realizar una reserva
+- que requicitos debo cumplir para realizar una reserva
+- cuales son los requisitos para realizar una reserva
+- que se necesita para reservar
+- en todos los planes ofrecen alimentacion
+- existe algun plan que no incluya los alimentos
+- puedo no pagar la alimentacion
+- existen planes de alojamiento sin la alimentacion incluida
+- la alimentacion puede no estar incluida
+- no quiero que la alimentacion este incluida
+- bicicletas acuaticas en lagosol
+- bicicletas acuaticas
+- lagosol hay lanchas
+- lanchas en lagosol
+- se puede andar en bicicletas acuaticas
+- hay lanchas en lagosol
+- bolera en lagomar
+- se puede jugar bolos en lagomar
+- el plan en lagomar incluye bolos
+- bolos
+- caminata en lagosol
+- lagosol hacen caminatas
+- caminatas ecologicas
+- caminatas lago sol
+- hay caminatas en lagosol?
+- se pueden hacer caminatas en lagosol?
+- hay caminatas en lagosol?
+- se puede hacer caminatas en lagosol
+- en lagomar hay cancha de tenis
+- en lagosol hay cancha de tenis
+- el hotel tiene cancha de tenis
+- se puede jugar tenis en el hotel
+- ?cuentan con cancha de tenis?
+- se puede jugar al tenis?
+- canopy en lagomar
+- tarabita en lagomar
+- tarabita
+- canopy
+- hay tarabita en lagomar?
+- se puede practicar canopy?
+- planes de cumpleanos en lagomar
+- hacen algo especial de cumpleanos en lagomar
+- kits de cumpleanos en lagomar.
+- se puede festejar el cumple en lagomar
+- quiero festejar mi cumple en lagomar
+- existen kits de cumpleanos en lagomar?
+- planes de cumpleanos en lagosol
+- hacen algo especial de cumpleanos en lagosol
+- kits de cumpleanos en lagosol.
+- se puede festejar el cumple en lagosol
+- quiero festejar mi cumple en lagosol
+- existen kits de cumpleanos en lagosol?
+- lagomar deportes extremos
+- lagosol deportes extremos
+- paseo en lancha
+- esqui
+- se puede hacer esqui acuatico?
+- se pueden realizar deportes extremos?
+- quiero pasear en lancha
+- me gustan los deportes extremos
+- check in
+- que es un tour virtual
+- escenarios lagomar
+- esenarios lagosol
+- donde puedo ver imagenes o videos de lagomar
+- donde puedo ver imagenes o videos de lagosol
+- quiero ver un video de lagosol
+- quiero ver un video de lagomar
+- me podes dar un video de lagomar
+- me podes dar un video de lagosol
+- que debo llevar al hotel
+- que tiene el spa
+- que tiene el spa
+- que documentos debo llevar al hotel cuando ingreso
+- que documentos debo llevar al hotel cuando ingreso
+- servicios spa
+- que tiene el spa y servicios spa
+- debo llevar el soporte de pago al hotel
+- que documentos debo presentar en el hotel
+- que papeles debo presentar en el hotel
+- enfermeria en lagosol
+- enfermeria en lagomar
+- enfermeria en lago sol
+- enfermeria en lago mar
+- servicios medicos
+- hay medico en los hoteles
+- hay medico en lagomar
+- hay medico en lagosol
+- cancha de futbol en lagomar
+- lagomar hay futbol 11
+- futbol cinco en lagomar
+- se puede jugar al futbol en lagomar
+- hay chancha de futbol en lagomar
+- cancha de futbol en lagosol
+- lagosol hay futbol 11
+- futbol cinco en lagosol
+- golf en lagomar
+- cuantos hoyos tiene el mini golf
+- lagomar hay golf
+- se puede jugar al golf en lagomar
+- hay chancha de golf
+- ventiladores en los hoteles
+- aire acondicionado en la habitacion
+- ventilado en la habitacion
+- habitaciones tienen aire acondicionado
+- a que hora es el check in
+- puedo entrar antes de las 3 al hotel
+- a que hora debo llegar al hotel
+- horario de ingreso al hotel
+- ?a que hora se puede ingresar a los hoteles?
+- hasta que hora atienden en recepcion
+- a que hora me puedo comunicar a recepcion
+- la recepcion en que horarios esta abierta
+- la recepcion es 24 hs?
+- que horario tiene la recepcion?
+- puedo llegar a la recepcion a cualquier hora?
+- en lagosol hay tienda?
+- en lagomar hay tienda?
+- hay en lagosol una boutique?
+- hay en lagomar una boutique?
+- lagomar tiene tienda?
+- lagosol tiene tienda?
+- lago sol tiene tienda?
+- lago mar tienda tieneda?
+- hay en lago sol una boutique?
+- hay en lago mar una boutique?
+- tienda lago mar
+- tienda lago sol
+- puedo hacer compras en lagomar
+- puedo hacer compras en lagosol
+- puedo hacer mercado en lagomar
+- puedo hacer mercado en lagosol
+- puedo mercar en lagomar
+- puedo mercar en lagosol
+- puedo comprar en lagomar?
+- puedo comprar en lagosol?
+- ?el hotel tiene tiendas?
+- puedo llevar mascotas
+- puedo llevar a mi perro
+- puedo llevar a mi gato
+- pueden ingresar animales
+- quiero llevar a mi mascota
+- pueden llevar mascotas
+- permite el ingreso de mascotas
+- lagosol hay servicio de lavanderia
+- lagomar hay servicio de lavanderia
+- cuentan con servicio de lavanderia
+- tienen con servicio de lavanderia
+- tienen servicio de lavanderia
+- en lagosol hay servicio de lavanderia
+- se puede lavar la ropa en los hoteles
+- de que material es la cancha de tenis
+- la cancha de tenis es en polvo de ladrillo
+- como es la cancha de tenis
+- ?de que material son las canchas de tenis?
+- de que estan echas las canchas de tenis?
+- lago es posible nadar
+- el lago esta apto para nadar
+- se puede nadar en el lago
+- me gustaria nadar en el lago
+- quiero nadar en el lago
+- puedo ingresar alimentos al hotel
+- puedo ingresar bebidas la hotel
+- puedo llevar alimentos y bebidas
+- dejan entrar alimentos
+- puede llevar comida al hotel
+- puede llevar comida
+- puede entrar comida
+- ?se permite el ingreso de alimentos o bebidas a algun hotel o centro vacacional?
+- piscina para ninos
+- piscinas que no sean hondas para ninos
+- pisina de ninos
+- cuantas piscinas tiene lagomar
+- cuantas piscinas tiene lagosol
+- hay pisina en lagosol
+- hay pisina en lagomar
+- picina en lagosol
+- picina en lagomar
+- tienen piscinas los hoteles
+- puedo pedir algo romantico para mi pareja
+- paquetes romanticos
+- planes romanticos en lagosol
+- planes romanticos en lagomar
+- tienen algo romantico
+- cuentan con algun plan romantico
+- ?tienen planes romanticos?
+- playa en lagomar
+- playa en lago mar
+- como es la playa en lagomar
+- playa
+- spa en lagomar
+- spa en lago mar
+- masajes en lagomar
+- tratamientos en el spa de lagomar
+- spa
+- hay spa en lagomar?
+- tienen spa en lagomar?
+- se puede usar el spa en lagomar?
+- posibilidad de salir del hotel por un tiempo
+- puedo salir del hotel sin problemas
+- forma de salir a la ciudad
+- lagomar hay juegos de mesa
+- ping pong  lagomar
+- billar lagomar
+- lago mar hay rana
+- rana lagomar
+- lago mar hay rana
+- salon de juegos lagomar
+- lagomar hay videojuegos
+- hay juegos de mesa?
+- se puede jugar al ping pong?
+- se puede jugar al billar?
+- hay billar?
+- hay salon de juegos?
+- lagosol hay juegos de mesa
+- ping pong  lagosol
+- billar  lagosol
+- lago sol hay rana
+- rana  lagosol
+- lago sol hay rana
+- salon de juegos lagosol
+- lagosol hay videojuegos
+- que hay en el salon de juegos de lagosol
+- se puede jugar al ping pong en lagosol?
+- hay billar en lagosol?
+- parqueadero en el hotel
+- el parqueadero tiene algun costo
+- el hotel cuenta con parqueadero
+- servicio de parqueadero
+- otros servicios prestan
+- servicios adicionales tienen en los hoteles
+- hacer en lagomar
+- hacer en lagosol
+- hacer en lago mar
+- hacer en lago sol
+- actividades lagomar
+- actividades lagosol
+- actividades lago mar
+- actividades lago sol
+- lagosol silla ruedas
+- lagomar silla ruedas
+- prestamo silla ruedas
+- prestan silla ruedas
+- lago sol silla ruedas
+- lago mar silla ruedas
+- en las habitaciones hay television
+- television en la habitacion
+- ?hay tv en la habitacion?
+- se puede ver television en los hoteles
+- se puede ver television en lagomar
+- se puede ver television en lagosol
+- hay tv en lagosol
+- hay tv en lagomar
+- como son las habitaciones en lagomar
+- cual es la capacidad de las habitaciones en lagomar
+- como es la distribucion de habitaciones en lagomar
+- hay habitaciones individuales en lagomar?
+- cuantas personas entran por habitacion en lagomar
+- hasta cuantas personas entran por habitacion
+- es posible una habitacion para 5 personas en lagomar
+- es posible una habitacion para cuatro personas?
+- quiero una habitacion para 8 personas en lagomar
+- quiero una habiatacion para siete personas en lagomar
+- como son las habitaciones en lagosol
+- cual es la capacidad de las habitaciones en lagosol
+- como es la distribucion de habitaciones en lagosol
+- hay habitaciones individuales?
+- cuantas personas entran por habitacion
+- hasta cuantas personas entran por habitacion
+- es posible una habitacion para 5 personas
+- es posible una habitacion para cuatro personas?
+- quiero una habitacion para 8 personas
+- quiero una habiatacion para siete personas
+- servicio de transporte
+- transporte hacia lagomar
+- transporte hacia lagosol
+- compensar presta servicio de transporte a los hoteles
+- ?lagosol hotel y lagomar hotel cuentan con transporte desde bogota?
+- los hoteles prestan servicio de transporte
+- lagomar presta servicio de transporte
+- lagosol presta servicio de transporte
+- donde queda lagomar
+- donde queda lagosol
+- como llego a lagomar
+- como llego a lagosol
+- cual es la mejor ruta a lagomar
+- cual es la mejor ruta a lagosol
+- cual es la ubicacion de lagomar
+- cual es la ubicacion de lagosol
+- donde es lagomar
+- donde es lagosol
+- en donde queda lagomar
+- en donde queda lagosol
+- ?cual es la ubicacion de los hoteles?
+- voleyplaya en lagomar
+- lagomar tiene cancha de voleyplaya
+- voley playa en lagomar
+- se puede jugar al voley playa en lagomar
+- quiero jugar al voleyplaya
+- hay voleyplaya?
+- hay voley playa?
+- jugar voley en la playa
+- ?hay cancha de voley-playa en lagomar?
+- servicio de wifi
+- internet en lagosol
+- internet en lago sol
+- internet en lagomar
+- internet en lago mar
+- lagomar hay wifi
+- lagosol hay wifi
+- lago mar hay wifi
+- lago sol hay wifi
+- wifi
+- hotel tiene internet
+- cuanto vale el plan a lagomar
+- que vale la noche a lagomar
+- como son los planes a lagomar
+- cuales son las tarifas lagomar
+- tarifas lagomar
+- tarifas lago mar
+- cuanto sale lagomar
+- cual es la tarifa en lagomar
+- cuanto sale la noche en lagomar
+- cuales son los horarios del chat?
+- cuanto vale el plan a lagosol
+- que vale la noche a lagosol
+- como son los planes a lago sol
+- cuales son las tarifas lagosol
+- tarifas lagosol
+- tarifas lagosol
+- cuanto sale lagosol
+- cual es la tarifa en lago sol
+- cuanto sale la noche en lagosol
+- que tarifas hay en lagosol
+- cuanto cuesta 1 noche 2 dias en lagosol
+- cuanto vale pasadia no afiliados
+- que precio tiene pasadia para no afiliados
+- que cuesta para adulto pasadia no afiliados
+- que cuesta para nino pasadia no afiliados
+- cuanto cuesta pasadia para los no afiliaddos
+- no estoy afiliado, cuanto sale pasadia?
+- no estoy afiliado, cuanto vale pasadia?
+- chao
+- hasta pronto
+- bye
+- nos vemos
+- hasta luego
+- es todo
+- xiao
+- no es mas nos vemos
+- hasta luego
+- adios
+- chau
+- sobre lagomar
+- sobre lagomar
+- sobre lagosol
+- sobre lagosol
+- me puedes comunicar por favor con un asesor
+- asesor
+- me pueden ayudar por favor
+- me ayudas por favor
+- cordial saludo
+- buen dia
+- el alojamiento en lagosol
+- buenas tardes q valor tiene para hospedaje en lago sol
+- quiero saber sobre planes para lagomar
+- cual es el precio de la entrada a lagosol
+- como es la comida en lagomar
+- como es la coida en lagomar?
+- que se se puede comer en lagomar
+- lagomar que comida tiene
+- que se puede comer en lagomar
+- categoria: alimentos y bebidas lagomar comida
+- como es la comida en lagosol
+- como es la coida en lagosol?
+- que se se puede comer en lagosol
+- lagosol que comida tiene
+- que se puede comer en lagosol
+- categoria: alimentos y bebidas lagosol comida
+- ?cuales son los servicios de lagomar?
+- que se puede hacer en lagomar
+- que servicios tiene lagomar
+- que servicios se puede hacer en lagomar
+- que actividades hay en lagomar
+- que juegos hay en lagomar
+- ?cuales son los planes de lagomar?
+- como son los planes en lagomar
+- que plan hy por noche en lagomar
+- como son las tarifas en lagomar
+- que incluyen los planes en lagomar
+- quiero saber sobre planes para lagomar
+- ?se pueden realizar eventos en lagomar?
+- eventos lagomar
+- como cotizo un evento en lagomar
+- se peuden hacer eventos sociales en lagomar
+- eventos sociales lagomar
+- eventos empresariales lagomar
+- ?cuales son los servicios de lagosol?
+- que se puede hacer en lagosol
+- que servicios tiene lagosol
+- que servicios se puede hacer en lagosol
+- que actividades hay en lagosol
+- que juegos hay en lagosol
+- ?cuales son los planes de lagosol?
+- como son los planes en lagosol
+- que plan hay por noche en lagosol
+- como son las tarifas en lagosol
+- que incluyen los planes en lagosol
+- que planes hay en lagosol
+- como son los planes en lagosol
+- quiero saber sobre planes para lagosol
+- ?se pueden realizar eventos de lagosol?
+- eventos lagosol
+- como cotizo un evento en lagosol
+- se peuden hacer eventos sociales en lagosol
+- eventos sociales lagosol
+- eventos empresariales lagosol
+- ?como es el pasadia empresarial?
+- pasadia empresarial
+- pasadia empresarial en lagosol
+- que inlcuye el pasadia empresarial
+- como es el pasadia empresarial?
+- que tiene el pasadia empresarial?
+- ?cuales son los horarios del hotel lagosol para pasadia?
+- cual es el horario del servicio de pasadia
+- hasta que hora es el servicio de pasadia
+- horario pasadia lagosol
+- en que horario esta pasadia
+- el servicio de pasadia en que horario es?
+- pasadia que horario tiene
+- pagos de reserva
+- pagos de reserva
+- por donde puedo pagar mi reserva
+- como puedo pagar mi reserva
+- como puedo pagar con tarjeta
+- se puede hacer consignacion
+- puedo pagar con tarjeta debito
+- como pago en efectivo
+- como hago para pagar mi reserva
+- buenas tardes para averiguar sobre lagomar
+- quiero consultar acerca de lagomar
+- en que consisten los planes pasadia
+- ?lagomar tiene ascensores?
+- hay ascensores en lagomar?
+- no puedo subir las escaleras, hay ascensores en lagomar
+- ascensores en lagomar
+- lagomar ascensores
+- ?quiero saber las tarifas en lagomar o lagosol?
+- pasadia tarifas para no afiliados
+- transporte para pasadia lagosol
+- me gustaria saber informacion sobre pasadia
+- donde lo puedo comprar
+- y el pasadia a lagomar que costo tiene
+- pasadia lagomar
+- que dia es la pasadia?
+- pagar una pasadia para el viernes?
+- comprar pasadia
+- cuando puedo viajar a pasadia?
+- dias pasadia?
+- pasadia adquirir
+- que documentos debo presentar para comprar las pasadias
+- que vale una pasadia con transporte?
+- como pagar una pasadia
+- estoy interesado en un pasadia para una persona no afiliada como puedo hacer la compra
+- me puedes dar valores para el pasadia
+- pasadia quiero saber para pagar puedo hacerlo por la pagina o debo acercarme a algun punto de compensar
+- quisiera conocer el costo de pasadia
+- donde compramos pasadia
+- donde compramos para pasadia lagosol
+- me interesaria averiguar el costo del plan pasadia
+- costo del plan pasadia
+- a donde puedo comprar el pasadia?
+- valores de bus
+- queria saber cuanto precio tiene una pasadia en lagosol para el dia de manana
+- como puedo obtener un pasadia
+- muchas gracias por la informacion
+- reuqiero informacion personalisada
+- donde puedo generar el pago
+- y el pasadia en lago mar?
+- como pagar una pasadia
+- necesito pagar una reserva
+- estadia lagosol
+- informacion para lagosol
+- estadia lagomar
+- informacion para lagosol
+- necesito pagar una reserva
+- informacion para lagomar
+- informacion para lagomar
+- pasadia a que se refiere
+- quisiera averiguar sobre pasadia en el lagosol
+- quiero realizar el pago de una reserva que tengo en lagomar
+- pero me puedes explicar en que consiste la pasadia
+- me gustaria saber sobre el plan de pasadia
+- quiero saber por lagosol
+- quiero averiguar sobre planes de estadia en lagosol
+- me puedes dar valores para el pasadia
+- me interesaria averiguar el costo del plan pasadia
+- donde comprar los boletos para el parque
+- y cuanto sale
+- valor
+- costo
+- precio
+- coste
+- que valor tiene
+- que precio tiene
+- y cuanto sale
+- y que incluye
+- que incluye
+- informacion de ingreso al hotel
+- no estoy afiliado puedo ir a pasadia de lagosol?
+- un no afiliado puede ir a pasadia de lagosol?
+- no estoy afiliado y quiero ir a pasadia lagosol
+- se puede ir a pasadia sin estar afiliado
+- puedo pagar la reserva con tarjeta compensar
+- puedo realizar pagos con tarjeta compensar
+- tengo la tarjeta compensar puedo pagar una reserva
+- la tarjeta compensar y quiero pagar un reserva
+- tarjeta compensar
+- hay un plan para cumpleaneros
+- que promocion existe por cumplir anos
+- si es mi cumple tengo beneficios?
+- que descuentos tengo por mi cumpleanos
+- es mi cumpleanos
+- tengo descuentos por ser mi cumpleanos
+- quiero hablar con un humano
+- para averiguar por estadia en lagosol
+- para averiguar por estadia en lagomar
+- estadia en lagomar
+- solo quiero saber si aceptan la entrada de mascotas
+- buenos dias, me gustaria conocer que planes turisticos ofrecen
+- cambio de fecha pasadia
+- quiero cambiar la fecha de mi pasadia
+- compre un pasadia y quiero realizar un cambio
+- modificaciones en mi pasadia
+- cambiar pasadia
+- puedo cambiar el boleto de pasadia
+- quiero cambiar pasadia
+- puedo reservar y empezar a pagar en cuotas
+- se puede pagar a cuotas lagosol
+- se puede pagar a cuotas lagomar
+- se puede pagar todo en el hotel
+- puedo pagar a cuotas o debo hacer el pago total
+- quiero pagar en cuotas
+- hay cuotas
+- se puede pagar en cuotas
+- lagosol con subsidio monetario
+- puedo ir a lagosol con el subsidio monetario
+- lagosol con subsidio monetario
+- lagosol por $33.400
+- una noche en lagosol con el subsidio
+- hay subsidio monetario?
+- subsidio especial
+- subsidio monetario
+- que incluye pasadia para servicio domestico
+- que servicios tengo en el pasadia de servicio domestico
+- servicios de pasadia lagosol para servicio domestico
+- soy emplaeada domestica que incluye pasadia
+- soy empleada domestica y quiero ir a pasadia
+- informacion pasadia servicio domestico
+- pasadia $2000
+- lagosol pasadia guardas de seguridad
+- lagosol pasadia nineras
+- lagosol pasadia jardineros
+- lagosol pasadia conductores
+- pasadia pagando solo 2000
+- como funciona el pasadia para lagosol de servicio domestico
+- informacion del programa servicio domestico
+- para obtener el descuento por ser vigilante
+- descuento de servicio domestico
+- como compro pasadia por 2000
+- como compro pasadia de servicio domestico
+- disponibilidad pasadia
+- hay disponibilidad para pasadia
+- quiero saber si hay cupos de pasadia en lagosol
+- quiero saber si hay lugar en pasadia
+- voy manana a pasadia y quiero sabaer si hay disponibilidad
+- cupos pasadia
+- en los hoteles hay agua caliente
+- en lagomar hay agua caliente
+- en lagosol hay agua caliente
+- ?las duchas tienen agua caliente?
+- agua caliente
+- banos con agua caliente
+- me puedo bana con agua caliente
+- tienen planes de cumpleanos ?
+- lagomar precios
+- y como se mi categoria
+- vacaciones en lagosol
+- lagosol estadia todo incluido
+- lagomar es en girardot
+- quiero saber si se puede ir pagando por plazos
+- me gustaria saber como pago la reserva con tc
+- buenos dias quiero saber como hacer el pago para una reserva
+- la pasadia que inlcuye
+- y que incluye la pasadia
+- estoy interesada en el pasadia lagosol
+- para cotizar el pasadia en lagosol
+- solo un dia en el parque lagosol
+- buenso dias estoy imteresada en un pasadia
+- necesito cotizar una pasadia
+- coronavirus
+- covid19
+- covid 19
+- covid
+- virus
+- buenos dias, es que quisiera saber si por lo del covid-19, hay restriccion de ingreso al parque lago sol?
+- por el tema de covid 19 hay alguna restriccion en lago sol?
+- con el covid 19 lo puedo cancelar para otra fecha
+- para consultar si compensar suspende por motivos del covid 19
+- quisiera saber que disposicion a tomado compensar respecto a la pandemia del coronavirus para las personas que tenemos reserva hotelera
+- como lo van a manejar debido al tema del coronavirus
+- es que quisiera saber si por lo del coronavirus hay restriccion para entar en lagosol?
+- coronavirus
+- quisiera saber que probabilidad tengo de aplazar mi viaje teniendo en cuenta el suceso del coronavirus
+- tengo una reserva para el 20 de marzo quiero saber si sigue en pie ya que estamos con lo del coronavirus
+- pero afecta el tema del coronavirus ?
+- el tema de coronavirus afecta las salidas ?
+- estoy preguntando si las salidas se restringen .... por el tema del coronaviruz
+- pero me puede informar si por los motivos que se estan presentando actualmente por el tema del coronavirus si en esa fecha no se pude viajar hay posibilidad de aplazar el viaje y por cuanto tiempo seria .
+- hola buenas noches quisiera saber si lago sol estara en funcionamiento el dia de manana ya que esta todo esto acerca del coronavirus
+- cornavirus
+- agencia de viajes
+- santa marta
+- villavicencio
+- cartagena
+- medellin
+- amazonas
+- eje cafetero
+- san andres
+- necesito modificar una reserva
+- quiero realizar un cambio a  mi reserva
+- quiero solicitar una devolucion
+- quiero cancelar mi reserva
+- para cancelar un servicio
+- buenos dias estoy interesada en el plan cumpleanos lago sol
+- cumpleanos lago sol
+- cumpleanos lago mar
+- pago pasadia
+- reserva pasadia
+- quiero realizar una reserva para pasadia
+- plan en lagomar
+- estoy interesda en lagomar
+- como es lo de las pasadia
+- pasadita
+- buenos dias quiero saber que paquetes trae lagosol para categoria a
+- tengo una reserva
+- devolucion dinero covid
+- reembolso de una reserva
+- quiero saber cual es el proceeso para aplazar
+- quiero saber como cancelar reserva
+- la reserva sigue vigente para la fecha establecida?
+- quisiera preguntar por mi reserva
+- tengo una reserva hecha seguira en pie?
+- las reservas que se tiene ya  previstas siguen en pie?
+- quiero saber si mi reserva aun esta activa
+- que pasa con las reservas en este momendo con el coronavirus
+- nesesito saber q pasa con la reserva q tengo en lagomar
+- quiero la devolución de dinero de una reserva
+- me gustaría cancelar una reserva
+- devolución valor reserva
+- apartir de que fecha se pueden haser resevas
+- reservar con descuento
+- lagosol ofertas reservas con descuento
+- cuando puedo reservar
+- a partir de que fechas puedo reservar
+- estan tomando reservas?
+- es que quiero solicitar la devolucion del dinero
+- tengo una reserva en lagomar pero necesito cambiar las fechas
+- quisiera me indiquen como cambiar las fechas de las reservas de lagomar
+- lagomar, reembolsos
+- buen dia, quisiera modificar la fecha de viaje que tengo programada para lagomar
+- podemos cambiar las fechas de la reserva???
+- modificacion
+- quiero saber que debo hacer para solicitar la devolucion de una reserva
+- como puedo hacer la modificacion
+- que debo hacer para la devolucion
+- quiero hacer devolucion
+- necesito verificar si mi reserva esta vigente
+- para la modificacion
+- tengo una reserva pero por el coronavirus
+- modificacion
+- quiero realizar modificacion de fecha de reserva
+- tengo una reserva en lagomar y deseo cancelar la reserva
+- buenas tarde tenia una reserva para el 10 de mayo
+- quiero saber si mi reserva queda congelada
+- quiero saber que pasara con mi reserva
+- tengo una reserva para el 10 de junio
+- deseo saber el correo al que se radica un desembolso de reserva, gracias
+- es que yo tenia una reserva para lagomar
+- para reservas en lagosol estan devolviendo el dinero consignado?
+- reembolso reserva
+- hola quisiera saber a que correo debo enviar la solicitud de reembolso
+- quisiera saber como hacer la peticio. para devolucion de un dinero
+- quisiera saber a donde enviar la solicitud de reembolso de una reserva a lagosol
+- quisiera saber como pedir un reembolso de una reserva a lagosol
+- quiero informacion de pasadia
+- que es el pasadia
+- quiero conocer del pasadia
+- necesito informacion del pasadia
+- como es para lo del pasadia
+- cual es el pasadia
+- deseo saber el correo al que se radica un desembolso de reserva, gracias
+- correo para enviar una solicitud de reembolso de hotel lagomar
+- tengo unas pasadias proximos a vencer, que puedo hacer?
+- pasadias
+- son pasadias
+- cuando se abriran los hoteles?
+- cuando va a estar abierto lagomar?
+- cuando va a estar abierto lagosol?
+- cuando podre ir a lagomar
+- cuando pode ir a lagosol
+- cuales medidas tomaran los hoteles al momento de su apertura?
+- que medidas de higiene se tomaran en los hoteles
+- que medidas se tomaran para que funcionen los hoteles
+- que medidas se tomaran en lagomar
+- que medidas se tomaran en lagosol
+- cuales medidas tomaran los hoteles al momento de su apertura?
+- ya se tienen las tarifas para fin de año?
+- cuales son las tarifas para fin de año
+- cuanto sale fin de año
+- que tarifas hay para fin de año
+- ya se tienen las tarifas para fin de año?
+- se puede aplazar reserva para el proximo año
+- se puede aplazar reserva para el proximo año?
+- quiero aplazar mi reserva para el proximo año
+- se puede posponer mi reserva para el proximo año?
+- necesito aplzar mi reserva hasta el proximo año
+
+## intent:niega
+- no
+- no quiero
+- no me interesa
+- no estoy de acuerdo
+- no!
+- negativo
+- nones
+- de ningun modo
+- en absoluto
+- jamas
+- nunca
+- nada
+- no gracias
+- no, muchas gracias
+- no muchas gracias
+- no hace falta, muchas gracias
+- no gracias adios
+
+
+## intent: no_quiero_reserva
+- no me interesa reservar
+- no quiero reservar
+- esto no es lo que quiero
+- yo no pedi reservar
+- no quiero hacer una reserva
+
+## intent:quiero_reservar
+- me gustaria reservar
+- quiero reservar
+- me gustaria hacer una reserva
+- me gustaria hacer una reserba
+- puedo reservar?
+- puedo reserbar?
+- me podria informar si puedo reservar
+- se puede hacer una reserva?
+- me podes tomar una reserva?
+- puedo reservar un hotel?
+- para cotizar una reserva
+- puedo reserbar un hotel?
+- quiero reservar
+- como puedo hacer la reserva
+- quiero saber como reservar
+- como reservar
+- reservar para
+- reserva de cabanas
+- quiero reserbar
+- quiero realizar una reserva
+- para hacer una reservacion para
+- reserva
+- reservar
+- reservar para el
+- necesito ayuda para una reserva por favor
+- necesito ayuda para una reserva
+- como puedo hacer reservaciones
+- quiero reservar para este fin de semana
+- para hacer una reservacion para dos personas
+- me podria informar si puedo reservar
+- para hacer una reservacion para
+- quiero saber que precio me sale una reserva
+- deseo hacer una reservacion para lagomar
+- deseo hacer una reservacion para lagosol
+- quiero agendar en lagomar
+- quiero agendar en lagosol
+- hola quiero saber que debo hacer para reservar una habitacion en lagomar
+- buenas tardes es para reservar
+- necesito reservar plan entre semana
+- hola buenos dias es para poder reservar
+- por favor costo de estadia en lagosol
+- buen dia, para cotizar hospedaje en los hoteles
+- me gustaria reservar dos cabanas en lagomar
+- estadia
+- como se puede reservar en lagomar
+- como estas quisiera reservar
+- revervas en promocion
+- que valor tiene lagosol para hospedaje
+- quiero hacer la reserva
+- hola buen dia para averiguar una estadia en lagosol
+- buenos dias . me gustaria reservar en lagomar
+- quiero reservar una noche en lagosol
+- quiero reservar una noche en lagomar
+- estadia en lagosol
+- estadia en lagomar
+
+## intent: Reservas_DisponibilidadTarifas
+- buenas tardes requiero informacion de reservas en lagosol o lagomar
+- que fechas hay disponibles
+- cuanto me sale la estadia del 14 de enero al 18 de enero
+- para el 31 de enero hay hospedaje habitacion 2 camas
+- quisiera saber costo para entrar a lagosol
+- quiero saber sobre disponibilidad de habitaciones para el hotel lagomar
+- quiero saber la disponibilidad en los hoteles
+- que disponibilida hay
+- que tarifas hay
+- hay disponibilidad?
+- como cotizo
+- por favor me cotiza
+- quisiera obtener informacion de costos para viajar a lagomar
+- quisiera saber si tienen cabanas para grupo familiar
+- quisiera saber en cuantro saldria una reserva para diciembre en lagomar hotel
+- quisiera obtener informacion de costos para viajar a lagomar
+- buenos dias quisiera hacer unas reservas para
+- saber cuanto me cuesta pasar una noche en lago mar, somos 5 personas
+- hay lugar?
+- quiero un plan para 4 personas en lagomar todo incluido
+- hay disponibilidad
+- necesito una cotizacion
+- quiero averiguar para lagomar
+- tarifas para reservar en lagomar
+- tarifas para reservar en lagosol
+- cotizar para lagomar
+- cotizar para lagosol
+- deseo reservar en lagomar para el mes de febrero
+- deseo saber cuanto vale lagosol 3 ninos y 5 adultos del 1 al 3 de febrero
+- quiero saber precio para dos dias una noche para 8 personas, un nino de 3 anos en el hotel lagosol
+- tu me puedes informar, el total de 5 dias que valor tiene desde el 27 de enero al 31 en lagosol
+- quisiera validar la tarifa para afiliado y no afiliado para viajar a lagomar en el mes de abril con la promocion de 40% de descuento
+- tengo una reserva para este jueves pero no encuentro el documento, usted me puede enviar una copia a mi correo registrado?
+- quiero preguntar por el plan de lagomar, que salio publicado en la intranet
+- solicito por favor validar disponibilidad, en hotel lagomar
+- quisiera saber que tengo que hacer para reservar hotel para el proximo fin de semana en lagosol, si se puede llevar mascota y si en la misma habitacion nos podemos quedar con mi hija
+- quisiera cotizar la estadia en lagosol para la semana del 14 al 17 de abril , para 3 adultos y 3 menores
+- quisiera obtener informacion para una estadia domingo y lunes en lagosol
+- quiero hacer la cotizacion de una reserva para dos personas los dos trabajamos en compensar
+- que descuento tienen del 18 al 31 de enero
+- estoy mirando los planes para lagosol y al colocar los datos de las personas una de mis hijas aparece como si no estuviera afiliada
+- para saber la tarifa de una noche
+- estoy interesado en un viaje planeado para el hotel de lagomar
+- quisiera saber si me pudieran dar un estimado de cuanto seria el costo de reserva para temporada de finde ano 2019
+- queria confirmar que fin de semana hay disponible de este mes ya sea en lagomar o en lagosol para 4 adultos y un nino de 8 anos
+- quisiera tener una cotizacion del hotel lagomar para dos noches tres dias fin de semana para 5 personas adultas
+- solicito informacion para reservas en lago sol y lagomar en semana santa
+- deseo averiguar el costo para una reserva en uno de los hoteles para el mes de junio
+- estoy interesada en una cotizacion para lagosol en marzo
+- quisiera saber los costos por persona
+- quisiera saber para las fechas marzo 29 al 31 cuanto sale la noche en lagomas el penon para dos personas
+- quisiera saber tarifas para categoria c
+- promociones para parejas en abril?
+- necesito hacer una cotizacion con el plan planear es ahorrar
+- estoy interesado en cotizar en lagomar para 2 personas del 18 al 20 de enero
+- tengo una reserva del 10 al 13 de enero en lagomar, mi pregunta es si uno de esos dias pueden ingresar al hotel tres familiares para pasar el dia y cual seria el costo ? solo el dia
+- quisiera realizar un reserva para el hotel lago sol 3 dias 2 noches en los dias 16, 17 y 18 de enero
+- quiero saber si ustedes ofrecen planes para viaje para dos personas?
+- me gustaria saber si hay disponibilidad, llegando el 5 y saliendo el 7 de enero, en lagomar o lagosol para 4 personas
+- estoy interesada en conocer el parque lagosol soy afiliada a la caja de compensacion y deseo conocer las tarifas
+- que tarifas hay
+- quiero saber precio para dos dias una noche para 8 personas, un nino de 3 anos en el hotel lagosol
+- que valor tiene un plan para el 16 de agosto puente
+- quisiera que me ayudaras a confirmar si hay disponibilidad de reservar en lagoomar o lagosol para manana viernes 2 de agosto regresando el domingo 4 de agosto seria para dos personas
+- quiero saber la disponibilidad en los hoteles
+- para realizar una cotizacion en lagosol
+- para realizar una cotizacion en lagomar
+- hay estadia para enero
+- quiero realizar una cotizacion de lagomar
+- donde se puede saber sobre los precios de los servicos que ofrecen?
+- precio del hospaje
+- deseo saber si hay disponibilidad en lagosol par el dia vienrs
+- hay estadia disponible en lagosol o lagomar?
+- hay cupos para el fin de semana
+- quiero saber que cuesta un plan fin de semana lagomar
+- el hospedaje de lagomar que cuesta
+- puedo cotizar estadia en el hotel lagosol
+- que costo tienen 2 noches en lagomar
+- que vale una noches
+- hay disponibilidad para tres noches
+- que vale cuatro noches
+- hay disponibilidad para cuatro noches
+- que vale cinco noches
+- hay disponibilidad para seis noches
+
+
+
+
+## intent:quiero_reservar_en
+- en hotel [lago mar](hotel:Lagomar) quiero reservar
+- en hotel [lagomar](hotel:Lagomar) quiero reservar
+- en el hotel [lago mar](hotel:Lagomar) quiero reservar
+- en el hotel [lagomar](hotel:Lagomar) quiero reservar
+- estoy interesado en hotel [lago sol](hotel:Lagosol) para realizar una reserva
+- quiero a hotel [lago mar](hotel:Lagomar) para reservar
+- me gustaria reservar en hotel [lago mar](hotel:Lagomar)
+- quiero reservar en el hotel [lago sol](hotel:Lagosol)
+- tengo una reserva en lagomar
+- quisiera reservar en hotel [lagomar](hotel:Lagomar)
+- quiero reservar en hotel [lagosol](hotel:Lagosol)
+- me parece que quiero reservar en hotel [lagomar](hotel:Lagomar)
+- estoy interesado en reservar en el hotel [lagomar](hotel:Lagomar)
+- quiero realizar una reserva en hotel [lagomar](hotel:Lagomar)
+- me podes tomar una reserva en hotel [lago mar](hotel:Lagomar)
+- se puede realizar una reserba en hotel [lagomar](hotel:Lagomar)
+- quiero averiguar por una reserva en lago mar
+- puedo reservar ahora para mayo el hotel lagomar
+- me gustaria reservar en hotel [lagosol](hotel:Lagosol)
+- quiero reservar en el hotel [lagosol](hotel:Lagosol)
+- quisiera reservar en hotel [lagosol](hotel:Lagosol)
+- estoy interesado en reservar en el hotel [lagosol](hotel)
+- quiero realizar una reserva en hotel [lago sol](hotel:Lagosol)
+- me podes tomar una reserva en hotel [lagosol](hotel:Lagosol)
+- se puede realizar una reserva en hotel [lagosol](hotel:Lagosol)
+- es posible realizar una reserva en hotel [lago sol](hotel:Lagosol)
+- me comunico para reservar en el hotel [lago mar](hotel:Lagomar)
+- le escribo para reservar en hotel [lagomar](hotel:Lagomar)
+- me comunico para reserbar en el hotel [lagosol](hotel:Lagosol)
+- le escribo para reserbar en hotel [lagosol](hotel:Lagosol)
+- quiero reserbar en el hotel [lagosol](hotel:Lagosol)
+- quisiera reserbar [en lagomar](hotel:Lagomar)
+- quiero reserbar [en lagosol](hotel:Lagosol)
+- quiero reserbar [en lago mar](hotel:Lagomar)
+- quiero reserbar [en lago mar](hotel:Lagomar)
+- quiero reservar [en lagomar](hotel:Lagomar)
+- quiero reservar [en lagomar](hotel:Lagomar)
+- quiero reserbar [en lago sol](hotel:Lagosol)
+- quiero reserbar [en lago sol](hotel:Lagosol)
+- quiero reservar [en lagosol](hotel:Lagosol)
+- quiero reservar [en lagosol](hotel:Lagosol)
+- es posible reservar [en lagomar](hotel:Lagomar)
+- es posible reservar [en lago mar](hotel:Lagomar)
+- es posible reservar [en lagosol](hotel:Lagosol)
+- es posible reservar [en lago sol](hotel:Lagosol)
+- quiero hacer una reserva [en lagomar](hotel:Lagomar)
+- quiero hacer una reserva [en lagosol](hotel:Lagosol)
+
+
+## intent: Hospedaje
+- quiero hospedaje
+- en el hospedaje
+- me gustaria hospedaje
+- hospedaje
+- hospedaje
+- hospedaje
+
+## intent: Pasadia
+- quiero pasadia
+- en el pasadia
+- me gustaria pasadia
+- pasadia
+- pasadia
+- pasadia
+
+
+
+## intent: dice_hotel_lagomar
+- [lagomar](hotel:Lagomar)
+- [lagomar](hotel:Lagomar)
+- [en lagomar](hotel:Lagomar)
+- [en lago mar](hotel:Lagomar)
+- en hotel [lagomar](hotel:Lagomar)
+- [en lagomar](hotel:Lagomar) porfavor
+- [lagomar](hotel:Lagomar)
+- [lagomar](hotel:Lagomar)
+- [en lagomar](hotel:Lagomar)
+- [en lago mar](hotel:Lagomar)
+- en hotel [lagomar](hotel:Lagomar)
+- [en lagomar](hotel:Lagomar) porfavor
+
+
+## intent: dice_hotel_lagosol
+- [en lago sol](hotel:Lagosol) por favor
+- [en lagosol](hotel:Lagosol) porfavor
+- [en lagosol](hotel:Lagosol) gracias
+- [en lago sol](hotel:Lagosol)
+- [en lagosol](hotel:Lagosol)
+- en hotel [lago sol](hotel:Lagosol)
+- [lagosol](hotel:Lagosol)
+- [lagosoll](hotel:Lagosol)
+- [lago sol](hotel:Lagosol)
+- [lagosol](hotel:Lagosol)
+- [lagosol](hotel:Lagosol)
+
+
+
+## intent:PlanGeneral
+- planes
+- que planes hay
+- quiero planes
+- contame que planes hay
+- decime de planes
+- quiero saber que planes
+- planes
+- decime planes
+- plan
+- plan
+- que planes tienen
+- que planes tienen disponibles
+
+
+## intent: dice_fecha
+- [lunes](time)
+- [martes](time)
+- [miercoles](time)
+- [miercoles](time)
+- [jueves](time)
+- [viernes](time)
+- [sabado](time)
+- [sabado](time)
+- [domingo](time)
+- el [lunes](time)
+- el [martes](time)
+- el [miercoles](time)
+- el [miercoles](time)
+- el [jueves](time)
+- el [viernes](time)
+- el [sabado](time)
+- el [sabado](time)
+- el [domingo](time)
+- proximo [lunes](time)
+- proximo [martes](time)
+- proximo [miercoles](time)
+- proximo [miercoles](time)
+- proximo [jueves](time)
+- proximo [viernes](time)
+- proximo [sabado](time)
+- proximo [sabado](time)
+- proximo [domingo](time)
+- [el 1 de enero](time)
+- [el 5 de enero](time)
+- [el 9 de enero](time)
+- [el 13 de enero](time)
+- [el 17 de enero](time)
+- [el 21 de enero](time)
+- [el 28 de enero](time)
+- [el 1 de febrero](time)
+- [el 5 de febrero](time)
+- [el 9 de febrero](time)
+- [el 13 de febrero](time)
+- [el 17 de febrero](time)
+- [el 21 de febrero](time)
+- [el 28 de febrero](time)
+- [el 1 de marzo](time)
+- [el 5 de marzo](time)
+- [el 9 de marzo](time)
+- [el 13 de marzo](time)
+- [el 17 de marzo](time)
+- [el 21 de marzo](time)
+- [el 28 de marzo](time)
+- [el 1 de abril](time)
+- [el 5 de abril](time)
+- [el 9 de abril](time)
+- [el 13 de abril](time)
+- [el 17 de abril](time)
+- [el 21 de abril](time)
+- [el 28 de abril](time)
+- [el 1 de mayo](time)
+- [el 5 de mayo](time)
+- [el 9 de mayo](time)
+- [el 13 de mayo](time)
+- [el 17 de mayo](time)
+- [el 21 de mayo](time)
+- [el 28 de mayo](time)
+- [el 1 de junio](time)
+- [el 5 de junio](time)
+- [el 9 de junio](time)
+- [el 13 de junio](time)
+- [el 17 de junio](time)
+- [el 21 de junio](time)
+- [el 28 de junio](time)
+- [el 1 de julio](time)
+- [el 5 de julio](time)
+- [el de julio](time)
+- [el 13 de julio](time)
+- [el 17 de julio](time)
+- [el 21 de julio](time)
+- [el 28 de julio](time)
+- [el 1 de agosto](time)
+- [el 5 de agosto](time)
+- [el 9 de agosto](time)
+- [el 13 de agosto](time)
+- [el 17 de agosto](time)
+- [el 21 de agosto](time)
+- [el 28 de agosto](time)
+- [el 1 de septiembre 2020](time)
+- [el 5 de septiembre 2020](time)
+- [el 9 de septiembre 2020](time)
+- [el 13 de septiembre](time)
+- [el 17 de septiembre 2020](time)
+- [el 21 de septiembre](time)
+- [el 28 de septiembre 2020](time)
+- [el 1 de octubre](time)
+- [el 5 de octubre](time)
+- [el 9 de octubre](time)
+- [el 13 de octubre](time)
+- [el 17 de octubre 2020](time)
+- [el 21 de octubre](time)
+- [el 28 de octubre 2020](time)
+- [el 1 de noviembre](time)
+- [el 5 de noviembre](time)
+- [el 9 de noviembre 2020](time)
+- [el 13 de noviembre](time)
+- [el 17 de noviembre 2020](time)
+- [el 21 de noviembre](time)
+- [el 28 de noviembre](time)
+- [el 1 de diciembre 2020](time)
+- [el 5 de diciembre](time)
+- [el 9 de diciembre](time)
+- [el 13 de diciembre 2020](time)
+- [el 17 de diciembre](time)
+- [el 21 de diciembre](time)
+- [el 28 de diciembre](time)
+- [1 de enero](time)
+- [5 de enero](time)
+- [9 de enero](time)
+- [13 de enero](time)
+- [17 de enero](time)
+- [21 de enero](time)
+- [28 de enero](time)
+- [1 de febrero](time)
+- [5 de febrero](time)
+- [9 de febrero](time)
+- [13 de febrero](time)
+- [17 de febrero](time)
+- [21 de febrero](time)
+- [28 de febrero](time)
+- [1 de marzo](time)
+- [5 de marzo](time)
+- [9 de marzo](time)
+- [13 de marzo](time)
+- [17 de marzo](time)
+- [21 de marzo](time)
+- [28 de marzo](time)
+- [1 de abril](time)
+- [5 de abril](time)
+- [9 de abril](time)
+- [13 de abril](time)
+- [17 de abril](time)
+- [21 de abril](time)
+- [28 de abril](time)
+- [1 de mayo](time)
+- [5 de mayo](time)
+- [9 de mayo](time)
+- [13 de mayo](time)
+- [17 de mayo](time)
+- [21 de mayo](time)
+- [28 de mayo](time)
+- [1 de junio](time)
+- [5 de junio](time)
+- [9 de junio](time)
+- [13 de junio](time)
+- [17 de junio](time)
+- [21 de junio](time)
+- [28 de junio](time)
+- [1 de julio](time)
+- [5 de julio](time)
+- [9 de julio](time)
+- [13 de julio](time)
+- [17 de julio](time)
+- [21 de julio](time)
+- [28 de julio](time)
+- [1 de agosto](time)
+- [5 de agosto](time)
+- [9 de agosto](time)
+- [13 de agosto](time)
+- [17 de agosto](time)
+- [21 de agosto](time)
+- [28 de agosto](time)
+- [1 de septiembre 2020](time)
+- [5 de septiembre 2020](time)
+- [9 de septiembre 2020](time)
+- [13 de septiembre](time)
+- [17 de septiembre 2020](time)
+- [21 de septiembre](time)
+- [28 de septiembre 2020](time)
+- [1 de octubre](time)
+- [5 de octubre](time)
+- [9 de octubre](time)
+- [13 de octubre](time)
+- [17 de octubre 2020](time)
+- [21 de octubre](time)
+- [28 de octubre 2020](time)
+- [1 de noviembre](time)
+- [5 de noviembre](time)
+- [9 de noviembre 2020](time)
+- [13 de noviembre](time)
+- [17 de noviembre 2020](time)
+- [21 de noviembre](time)
+- [28 de noviembre](time)
+- [1 de diciembre 2020](time)
+- [5 de diciembre](time)
+- [9 de diciembre](time)
+- [13 de diciembre 2020](time)
+- [17 de diciembre](time)
+- [21 de diciembre](time)
+- [28 de diciembre](time)
+- [del 1 de diciembre al 4 de diciembre](time)
+- [de 4 de diciembre al 8 de enero](time)
+- [del 8 de diciembre al 12 de febrero](time)
+- [de 12 de diciembre al 16 de marzo](time)
+- [del 16 de diciembre al 20 de abril](time)
+- [de 20 de diciembre al 24 de mayo](time)
+- [del 24 de diciembre al 28 de junio](time)
+- [de 28 de diciembre al 3 de julio](time)
+- [del 5 de diciembre al 6 de agosto](time)
+- [del 10 de diciembre al 9 de septiembre](time)
+- [de 15 de diciembre al 12 de octubre](time)
+- [del 20 de diciembre al 15 de noviembre](time)
+- [de 25 de diciembre al 18 de diciembre](time)
+- [del 1 de enero al 4 de diciembre](time)
+- [de 4 de enero al 8 de enero](time)
+- [del 8 de enero al 12 de febrero](time)
+- [de 12 de enero al 16 de marzo](time)
+- [del 16 de enero al 20 de abril](time)
+- [de 20 de enero al 24 de mayo](time)
+- [del 24 de enero al 28 de junio](time)
+- [de 28 de enero al 3 de julio](time)
+- [del 5 de enero al 6 de agosto](time)
+- [del 10 de enero al 9 de septiembre](time)
+- [de 15 de enero al 12 de octubre](time)
+- [del 20 de enero al 15 de noviembre](time)
+- [de 25 de enero al 18 de diciembre](time)
+- [de 4 de febrero al 8 de enero](time)
+- [del 8 de febrero al 12 de febrero](time)
+- [de 12 de febrero al 16 de marzo](time)
+- [del 16 de febrero al 20 de abril](time)
+- [de 20 de febrero al 24 de mayo](time)
+- [del 24 de febrero al 28 de junio](time)
+- [de 28 de febrero al 3 de julio](time)
+- [del 5 de febrero al 6 de agosto](time)
+- [del 10 de febrero al 9 de septiembre](time)
+- [de 15 de febrero al 12 de octubre](time)
+- [del 20 de febrero al 15 de noviembre](time)
+- [de 25 de febrero al 18 de diciembre](time)
+- [de 4 de marzo al 8 de enero](time)
+- [del 8 de marzo al 12 de febrero](time)
+- [de 12 de marzo al 16 de marzo](time)
+- [del 16 de marzo al 20 de abril](time)
+- [de 20 de marzo al 24 de mayo](time)
+- [del 24 de marzo al 28 de junio](time)
+- [de 28 de marzo al 3 de julio](time)
+- [del 5 de marzo al 6 de agosto](time)
+- [del 10 de marzo al 9 de septiembre](time)
+- [de 15 de marzo al 12 de octubre](time)
+- [del 20 de marzo al 15 de noviembre](time)
+- [de 25 de marzo al 18 de diciembre](time)
+- [de 4 de abril al 8 de enero](time)
+- [del 8 de abril al 12 de febrero](time)
+- [de 12 de abril al 16 de marzo](time)
+- [del 16 de abril al 20 de abril](time)
+- [de 20 de abril al 24 de mayo](time)
+- [del 24 de abril al 28 de junio](time)
+- [de 28 de abril al 3 de julio](time)
+- [del 5 de abril al 6 de agosto](time)
+- [del 10 de abril al 9 de septiembre](time)
+- [de 15 de abril al 12 de octubre](time)
+- [del 20 de abril al 15 de noviembre](time)
+- [de 25 de abril al 18 de diciembre](time)
+- [de 4 de mayo al 8 de enero](time)
+- [del 8 de mayo al 12 de febrero](time)
+- [de 12 de mayo al 16 de marzo](time)
+- [del 16 de mayo al 20 de abril](time)
+- [de 20 de mayo al 24 de mayo](time)
+- [del 24 de mayo al 28 de junio](time)
+- [de 28 de mayo al 3 de julio](time)
+- [del 5 de mayo al 6 de agosto](time)
+- [del 10 de mayo al 9 de septiembre](time)
+- [de 15 de mayo al 12 de octubre](time)
+- [del 20 de mayo al 15 de noviembre](time)
+- [de 25 de mayo al 18 de diciembre](time)
+- [de 4 de junio al 8 de enero](time)
+- [del 8 de junio al 12 de febrero](time)
+- [de 12 de junio al 16 de marzo](time)
+- [del 16 de junio al 20 de abril](time)
+- [de 20 de junio al 24 de mayo](time)
+- [del 24 de junio al 28 de junio](time)
+- [de 28 de junio al 3 de julio](time)
+- [del 5 de junio al 6 de agosto](time)
+- [del 10 de junio al 9 de septiembre](time)
+- [de 15 de junio al 12 de octubre](time)
+- [del 20 de junio al 15 de noviembre](time)
+- [de 25 de junio al 18 de diciembre](time)
+- [de 4 de julio al 8 de enero](time)
+- [del 8 de julio al 12 de febrero](time)
+- [de 12 de julio al 16 de marzo](time)
+- [del 16 de julio al 20 de abril](time)
+- [de 20 de julio al 24 de mayo](time)
+- [del 24 de julio al 28 de junio](time)
+- [de 28 de julio al 3 de julio](time)
+- [del 5 de julio al 6 de agosto](time)
+- [del 10 de julio al 9 de septiembre](time)
+- [de 15 de julio al 12 de octubre](time)
+- [del 20 de julio al 15 de noviembre](time)
+- [de 25 de julio al 18 de diciembre](time)
+- [de 4 de agosto al 8 de enero](time)
+- [del 8 de agosto al 12 de febrero](time)
+- [de 12 de agosto al 16 de marzo](time)
+- [del 16 de agosto al 20 de abril](time)
+- [de 20 de agosto al 24 de mayo](time)
+- [del 24 de agosto al 28 de junio](time)
+- [de 28 de agosto al 3 de julio](time)
+- [del 5 de agosto al 6 de agosto](time)
+- [del 10 de agosto al 9 de septiembre](time)
+- [de 15 de agosto al 12 de octubre](time)
+- [del 20 de agosto al 15 de noviembre](time)
+- [de 25 de agosto al 18 de diciembre](time)
+- [de 4 de septiembre al 8 de enero](time)
+- [del 8 de septiembre al 12 de febrero](time)
+- [de 12 de septiembre al 16 de marzo](time)
+- [del 16 de septiembre al 20 de abril](time)
+- [de 20 de septiembre al 24 de mayo](time)
+- [del 24 de septiembre al 28 de junio](time)
+- [de 28 de septiembre al 3 de julio](time)
+- [del 5 de septiembre al 6 de agosto](time)
+- [del 10 de septiembre al 9 de septiembre](time)
+- [de 15 de septiembre al 12 de octubre](time)
+- [del 20 de septiembre al 15 de noviembre](time)
+- [de 25 de septiembre al 18 de diciembre](time)
+- [de 4 de octubre al 8 de enero](time)
+- [del 8 de octubre al 12 de febrero](time)
+- [de 12 de octubre al 16 de marzo](time)
+- [del 16 de octubre al 20 de abril](time)
+- [de 20 de octubre al 24 de mayo](time)
+- [del 24 de octubre al 28 de junio](time)
+- [de 28 de octubre al 3 de julio](time)
+- [del 5 de octubre al 6 de agosto](time)
+- [del 10 de octubre al 9 de septiembre](time)
+- [de 15 de octubre al 12 de octubre](time)
+- [del 20 de octubre al 15 de noviembre](time)
+- [de 25 de octubre al 18 de diciembre](time)
+- [de 4 de noviembre al 8 de enero](time)
+- [del 8 de noviembre al 12 de febrero](time)
+- [de 12 de noviembre al 16 de marzo](time)
+- [del 16 de noviembre al 20 de abril](time)
+- [de 20 de noviembre al 24 de mayo](time)
+- [del 24 de noviembre al 28 de junio](time)
+- [de 28 de noviembre al 3 de julio](time)
+- [del 5 de noviembre al 6 de agosto](time)
+- [del 10 de noviembre al 9 de septiembre](time)
+- [de 15 de noviembre al 12 de octubre](time)
+- [del 20 de noviembre al 15 de noviembre](time)
+- [de 25 de noviembre al 18 de diciembre](time)
+- [10/12/2019](time)
+- [20/11/2019](time)
+- [10/1/2020](time)
+- [15/2/2019](time)
+- [17/5/2019](time)
+- [3/1/2020](time)
+- [6/2/2020](time)
+- [9/3/2020](time)
+- [12/4/2020](time)
+- [15/5/2020](time)
+- [18/6/2019](time)
+- [21/7/2019](time)
+- [25/8/2020](time)
+- [29/9/2019](time)
+- [1/10/2019](time)
+- [5/11/2020](time)
+- [7/12/2020](time)
+- [14/1/2020](time)
+- [17/3/2020](time)
+- [19/2/2020](time)
+- [1/2/2020](time)
+- [2/2/2020](time)
+- [3/2/2020](time)
+- [4/2/2020](time)
+- [5/2/2020](time)
+- [6/2/2020](time)
+- [7/2/2020](time)
+- [8/2/2020](time)
+- [9/2/2020](time)
+- [10/2/2020](time)
+- [11/2/2020](time)
+- [12/2/2020](time)
+- [13/2/2020](time)
+- [14/2/2020](time)
+- [15/2/2020](time)
+- [16/2/2020](time)
+- [17/2/2020](time)
+- [18/2/2020](time)
+- [19/2/2020](time)
+- [20/2/2020](time)
+- [21/2/2020](time)
+- [22/2/2020](time)
+- [23/2/2020](time)
+- [24/2/2020](time)
+- [25/2/2020](time)
+- [26/2/2020](time)
+- [27/2/2020](time)
+- [28/2/2020](time)
+- [29/2/2020](time)
+- [30/2/2020](time)
+- [31/2/2020](time)
+- [1/3/2020](time)
+- [2/3/2020](time)
+- [3/3/2020](time)
+- [4/3/2020](time)
+- [5/3/2020](time)
+- [6/3/2020](time)
+- [7/3/2020](time)
+- [8/3/2020](time)
+- [9/3/2020](time)
+- [10/3/2020](time)
+- [11/3/2020](time)
+- [12/3/2020](time)
+- [13/3/2020](time)
+- [14/3/2020](time)
+- [15/3/2020](time)
+- [16/3/2020](time)
+- [17/3/2020](time)
+- [18/3/2020](time)
+- [19/3/2020](time)
+- [20/3/2020](time)
+- [21/3/2020](time)
+- [22/3/2020](time)
+- [23/3/2020](time)
+- [24/3/2020](time)
+- [25/3/2020](time)
+- [26/3/2020](time)
+- [27/3/2020](time)
+- [28/3/2020](time)
+- [29/3/2020](time)
+- [30/3/2020](time)
+- [31/3/2020](time)
+- [1/3/2020](time)
+- [2/3/2020](time)
+- [3/3/2020](time)
+- [4/3/2020](time)
+- [5/3/2020](time)
+- [6/3/2020](time)
+- [7/3/2020](time)
+- [8/3/2020](time)
+- [9/3/2020](time)
+- [10/3/2020](time)
+- [11/3/2020](time)
+- [12/3/2020](time)
+- [13/3/2020](time)
+- [14/3/2020](time)
+- [15/3/2020](time)
+- [16/3/2020](time)
+- [17/3/2020](time)
+- [18/3/2020](time)
+- [19/3/2020](time)
+- [20/3/2020](time)
+- [21/3/2020](time)
+- [22/3/2020](time)
+- [23/3/2020](time)
+- [24/3/2020](time)
+- [25/3/2020](time)
+- [26/3/2020](time)
+- [27/3/2020](time)
+- [28/3/2020](time)
+- [29/3/2020](time)
+- [30/3/2020](time)
+- [31/3/2020](time)
+- [1/3/2020](time)
+- [2/3/2020](time)
+- [3/3/2020](time)
+- [4/3/2020](time)
+- [5/3/2020](time)
+- [6/3/2020](time)
+- [7/3/2020](time)
+- [8/3/2020](time)
+- [9/3/2020](time)
+- [10/3/2020](time)
+- [11/3/2020](time)
+- [12/3/2020](time)
+- [13/3/2020](time)
+- [14/3/2020](time)
+- [15/3/2020](time)
+- [16/3/2020](time)
+- [17/3/2020](time)
+- [18/3/2020](time)
+- [19/3/2020](time)
+- [20/3/2020](time)
+- [21/3/2020](time)
+- [22/3/2020](time)
+- [23/3/2020](time)
+- [24/3/2020](time)
+- [25/3/2020](time)
+- [26/3/2020](time)
+- [27/3/2020](time)
+- [28/3/2020](time)
+- [29/3/2020](time)
+- [30/3/2020](time)
+- [31/3/2020](time)
+- [1/3/2020](time)
+- [2/3/2020](time)
+- [3/3/2020](time)
+- [4/3/2020](time)
+- [5/3/2020](time)
+- [6/3/2020](time)
+- [7/3/2020](time)
+- [8/3/2020](time)
+- [9/3/2020](time)
+- [10/3/2020](time)
+- [11/3/2020](time)
+- [12/3/2020](time)
+- [13/3/2020](time)
+- [14/3/2020](time)
+- [15/3/2020](time)
+- [16/3/2020](time)
+- [17/3/2020](time)
+- [18/3/2020](time)
+- [19/3/2020](time)
+- [20/3/2020](time)
+- [21/3/2020](time)
+- [22/3/2020](time)
+- [23/3/2020](time)
+- [24/3/2020](time)
+- [25/3/2020](time)
+- [26/3/2020](time)
+- [27/3/2020](time)
+- [28/3/2020](time)
+- [29/3/2020](time)
+- [30/3/2020](time)
+- [31/3/2020](time)
+- [1/12/2021](time)
+- [2/12/2021](time)
+- [3/12/2021](time)
+- [4/12/2021](time)
+- [5/12/2021](time)
+- [6/12/2021](time)
+- [7/12/2021](time)
+- [8/12/2021](time)
+- [9/12/2021](time)
+- [10/12/2021](time)
+- [11/12/2021](time)
+- [12/12/2021](time)
+- [13/12/2021](time)
+- [14/12/2021](time)
+- [15/12/2021](time)
+- [16/12/2021](time)
+- [17/12/2021](time)
+- [18/12/2021](time)
+- [19/12/2021](time)
+- [20/12/2021](time)
+- [21/12/2021](time)
+- [22/12/2021](time)
+- [23/12/2021](time)
+- [24/12/2021](time)
+- [25/12/2021](time)
+- [26/12/2021](time)
+- [27/12/2021](time)
+- [28/12/2021](time)
+- [29/12/2021](time)
+- [30/12/2021](time)
+- [31/12/2021](time)
+- [1/12/2019](time)
+- [2/12/2019](time)
+- [3/12/2019](time)
+- [4/12/2019](time)
+- [5/12/2019](time)
+- [6/12/2019](time)
+- [7/12/2019](time)
+- [8/12/2019](time)
+- [9/12/2019](time)
+- [10/12/2019](time)
+- [11/12/2019](time)
+- [12/12/2019](time)
+- [13/12/2019](time)
+- [14/12/2019](time)
+- [15/12/2019](time)
+- [16/12/2019](time)
+- [17/12/2019](time)
+- [18/12/2019](time)
+- [19/12/2019](time)
+- [20/12/2019](time)
+- [21/12/2019](time)
+- [22/12/2019](time)
+- [23/12/2019](time)
+- [24/12/2019](time)
+- [25/12/2019](time)
+- [26/12/2019](time)
+- [27/12/2019](time)
+- [28/12/2019](time)
+- [29/12/2019](time)
+- [30/12/2019](time)
+- [31/12/2019](time)
+- [1/12/2022](time)
+- [2/12/2022](time)
+- [3/12/2022](time)
+- [4/12/2022](time)
+- [5/12/2022](time)
+- [6/12/2022](time)
+- [7/12/2022](time)
+- [8/12/2022](time)
+- [9/12/2022](time)
+- [10/12/2022](time)
+- [11/12/2022](time)
+- [12/12/2022](time)
+- [13/12/2022](time)
+- [14/12/2022](time)
+- [15/12/2022](time)
+- [16/12/2022](time)
+- [17/12/2022](time)
+- [18/12/2022](time)
+- [19/12/2022](time)
+- [20/12/2022](time)
+- [21/12/2022](time)
+- [22/12/2022](time)
+- [23/12/2022](time)
+- [24/12/2022](time)
+- [25/12/2022](time)
+- [26/12/2022](time)
+- [27/12/2022](time)
+- [28/12/2022](time)
+- [29/12/2022](time)
+- [30/12/2022](time)
+- [31/12/2022](time)
+- [10-12-2019](time)
+- [20-11-2019](time)
+- [10-1-2020](time)
+- [15-2-2019](time)
+- [17-5-2019](time)
+- [3-1-2020](time)
+- [6-2-2020](time)
+- [9-3-2020](time)
+- [12-4-2020](time)
+- [15-5-2020](time)
+- [18-6-2019](time)
+- [21-7-2019](time)
+- [25-8-2020](time)
+- [29-9-2019](time)
+- [1-10-2019](time)
+- [5-11-2020](time)
+- [7-12-2020](time)
+- [14-1-2020](time)
+- [17-3-2020](time)
+- [19-2-2020](time)
+- [1-2-2020](time)
+- [2-2-2020](time)
+- [3-2-2020](time)
+- [4-2-2020](time)
+- [5-2-2020](time)
+- [6-2-2020](time)
+- [7-2-2020](time)
+- [8-2-2020](time)
+- [9-2-2020](time)
+- [10-2-2020](time)
+- [11-2-2020](time)
+- [12-2-2020](time)
+- [13-2-2020](time)
+- [14-2-2020](time)
+- [15-2-2020](time)
+- [16-2-2020](time)
+- [17-2-2020](time)
+- [18-2-2020](time)
+- [19-2-2020](time)
+- [20-2-2020](time)
+- [21-2-2020](time)
+- [22-2-2020](time)
+- [23-2-2020](time)
+- [24-2-2020](time)
+- [25-2-2020](time)
+- [26-2-2020](time)
+- [27-2-2020](time)
+- [28-2-2020](time)
+- [29-2-2020](time)
+- [30-2-2020](time)
+- [31-2-2020](time)
+- [1-3-2020](time)
+- [2-3-2020](time)
+- [3-3-2020](time)
+- [4-3-2020](time)
+- [5-3-2020](time)
+- [6-3-2020](time)
+- [7-3-2020](time)
+- [8-3-2020](time)
+- [9-3-2020](time)
+- [10-3-2020](time)
+- [11-3-2020](time)
+- [12-3-2020](time)
+- [13-3-2020](time)
+- [14-3-2020](time)
+- [15-3-2020](time)
+- [16-3-2020](time)
+- [17-3-2020](time)
+- [18-3-2020](time)
+- [19-3-2020](time)
+- [20-3-2020](time)
+- [21-3-2020](time)
+- [22-3-2020](time)
+- [23-3-2020](time)
+- [24-3-2020](time)
+- [25-3-2020](time)
+- [26-3-2020](time)
+- [27-3-2020](time)
+- [28-3-2020](time)
+- [29-3-2020](time)
+- [30-3-2020](time)
+- [31-3-2020](time)
+- [1-3-2020](time)
+- [2-3-2020](time)
+- [3-3-2020](time)
+- [4-3-2020](time)
+- [5-3-2020](time)
+- [6-3-2020](time)
+- [7-3-2020](time)
+- [8-3-2020](time)
+- [9-3-2020](time)
+- [10-3-2020](time)
+- [11-3-2020](time)
+- [12-3-2020](time)
+- [13-3-2020](time)
+- [14-3-2020](time)
+- [15-3-2020](time)
+- [16-3-2020](time)
+- [17-3-2020](time)
+- [18-3-2020](time)
+- [19-3-2020](time)
+- [20-3-2020](time)
+- [21-3-2020](time)
+- [22-3-2020](time)
+- [23-3-2020](time)
+- [24-3-2020](time)
+- [25-3-2020](time)
+- [26-3-2020](time)
+- [27-3-2020](time)
+- [28-3-2020](time)
+- [29-3-2020](time)
+- [30-3-2020](time)
+- [31-3-2020](time)
+- [1-3-2020](time)
+- [2-3-2020](time)
+- [3-3-2020](time)
+- [4-3-2020](time)
+- [5-3-2020](time)
+- [6-3-2020](time)
+- [7-3-2020](time)
+- [8-3-2020](time)
+- [9-3-2020](time)
+- [10-3-2020](time)
+- [11-3-2020](time)
+- [12-3-2020](time)
+- [13-3-2020](time)
+- [14-3-2020](time)
+- [15-3-2020](time)
+- [16-3-2020](time)
+- [17-3-2020](time)
+- [18-3-2020](time)
+- [19-3-2020](time)
+- [20-3-2020](time)
+- [21-3-2020](time)
+- [22-3-2020](time)
+- [23-3-2020](time)
+- [24-3-2020](time)
+- [25-3-2020](time)
+- [26-3-2020](time)
+- [27-3-2020](time)
+- [28-3-2020](time)
+- [29-3-2020](time)
+- [30-3-2020](time)
+- [31-3-2020](time)
+- [1-3-2020](time)
+- [2-3-2020](time)
+- [3-3-2020](time)
+- [4-3-2020](time)
+- [5-3-2020](time)
+- [6-3-2020](time)
+- [7-3-2020](time)
+- [8-3-2020](time)
+- [9-3-2020](time)
+- [10-3-2020](time)
+- [11-3-2020](time)
+- [12-3-2020](time)
+- [13-3-2020](time)
+- [14-3-2020](time)
+- [15-3-2020](time)
+- [16-3-2020](time)
+- [17-3-2020](time)
+- [18-3-2020](time)
+- [19-3-2020](time)
+- [20-3-2020](time)
+- [21-3-2020](time)
+- [22-3-2020](time)
+- [23-3-2020](time)
+- [24-3-2020](time)
+- [25-3-2020](time)
+- [26-3-2020](time)
+- [27-3-2020](time)
+- [28-3-2020](time)
+- [29-3-2020](time)
+- [30-3-2020](time)
+- [31-3-2020](time)
+- [1-12-2021](time)
+- [2-12-2021](time)
+- [3-12-2021](time)
+- [4-12-2021](time)
+- [5-12-2021](time)
+- [6-12-2021](time)
+- [7-12-2021](time)
+- [8-12-2021](time)
+- [9-12-2021](time)
+- [10-12-2021](time)
+- [11-12-2021](time)
+- [12-12-2021](time)
+- [13-12-2021](time)
+- [14-12-2021](time)
+- [15-12-2021](time)
+- [16-12-2021](time)
+- [17-12-2021](time)
+- [18-12-2021](time)
+- [19-12-2021](time)
+- [20-12-2021](time)
+- [21-12-2021](time)
+- [22-12-2021](time)
+- [23-12-2021](time)
+- [24-12-2021](time)
+- [25-12-2021](time)
+- [26-12-2021](time)
+- [27-12-2021](time)
+- [28-12-2021](time)
+- [29-12-2021](time)
+- [30-12-2021](time)
+- [31-12-2021](time)
+- [1-12-2019](time)
+- [2-12-2019](time)
+- [3-12-2019](time)
+- [4-12-2019](time)
+- [5-12-2019](time)
+- [6-12-2019](time)
+- [7-12-2019](time)
+- [8-12-2019](time)
+- [9-12-2019](time)
+- [10-12-2019](time)
+- [11-12-2019](time)
+- [12-12-2019](time)
+- [13-12-2019](time)
+- [14-12-2019](time)
+- [15-12-2019](time)
+- [16-12-2019](time)
+- [17-12-2019](time)
+- [18-12-2019](time)
+- [19-12-2019](time)
+- [20-12-2019](time)
+- [21-12-2019](time)
+- [22-12-2019](time)
+- [23-12-2019](time)
+- [24-12-2019](time)
+- [25-12-2019](time)
+- [26-12-2019](time)
+- [27-12-2019](time)
+- [28-12-2019](time)
+- [29-12-2019](time)
+- [30-12-2019](time)
+- [31-12-2019](time)
+- [1-12-2022](time)
+- [2-12-2022](time)
+- [3-12-2022](time)
+- [4-12-2022](time)
+- [5-12-2022](time)
+- [6-12-2022](time)
+- [7-12-2022](time)
+- [8-12-2022](time)
+- [9-12-2022](time)
+- [10-12-2022](time)
+- [11-12-2022](time)
+- [12-12-2022](time)
+- [13-12-2022](time)
+- [14-12-2022](time)
+- [15-12-2022](time)
+- [16-12-2022](time)
+- [17-12-2022](time)
+- [18-12-2022](time)
+- [19-12-2022](time)
+- [20-12-2022](time)
+- [21-12-2022](time)
+- [22-12-2022](time)
+- [23-12-2022](time)
+- [24-12-2022](time)
+- [25-12-2022](time)
+- [26-12-2022](time)
+- [27-12-2022](time)
+- [28-12-2022](time)
+- [29-12-2022](time)
+- [30-12-2022](time)
+- [31-12-2022](time)
+- [14-01-2020](time)
+- [17-03-2020](time)
+- [19-02-2020](time)
+- [1-02-2020](time)
+- [2-02-2020](time)
+- [3-02-2020](time)
+- [4-02-2020](time)
+- [5-02-2020](time)
+- [6-02-2020](time)
+- [7-02-2020](time)
+- [8-02-2020](time)
+- [9-02-2020](time)
+- [10-02-2020](time)
+- [11-02-2020](time)
+- [12-02-2020](time)
+- [13-02-2020](time)
+- [14-02-2020](time)
+- [15-02-2020](time)
+- [16-02-2020](time)
+- [17-02-2020](time)
+- [18-02-2020](time)
+- [19-02-2020](time)
+- [20-02-2020](time)
+- [21-02-2020](time)
+- [22-02-2020](time)
+- [23-02-2020](time)
+- [24-02-2020](time)
+- [25-02-2020](time)
+- [26-02-2020](time)
+- [27-02-2020](time)
+- [28-02-2020](time)
+- [29-02-2020](time)
+- [30-02-2020](time)
+- [31-02-2020](time)
+- [1-03-2020](time)
+- [2-03-2020](time)
+- [3-03-2020](time)
+- [4-03-2020](time)
+- [5-03-2020](time)
+- [6-03-2020](time)
+- [7-03-2020](time)
+- [8-03-2020](time)
+- [9-03-2020](time)
+- [10-03-2020](time)
+- [11-03-2020](time)
+- [12-03-2020](time)
+- [13-03-2020](time)
+- [14-03-2020](time)
+- [15-03-2020](time)
+- [16-03-2020](time)
+- [17-03-2020](time)
+- [18-03-2020](time)
+- [19-03-2020](time)
+- [20-03-2020](time)
+- [21-03-2020](time)
+- [22-03-2020](time)
+- [23-03-2020](time)
+- [24-03-2020](time)
+- [25-03-2020](time)
+- [26-03-2020](time)
+- [27-03-2020](time)
+- [28-03-2020](time)
+- [29-03-2020](time)
+- [30-03-2020](time)
+- [31-03-2020](time)
+- [1-03-2020](time)
+- [2-03-2020](time)
+- [3-03-2020](time)
+- [4-03-2020](time)
+- [5-03-2020](time)
+- [6-03-2020](time)
+- [7-03-2020](time)
+- [8-03-2020](time)
+- [9-03-2020](time)
+- [10-03-2020](time)
+- [11-03-2020](time)
+- [12-03-2020](time)
+- [13-03-2020](time)
+- [14-03-2020](time)
+- [15-03-2020](time)
+- [16-03-2020](time)
+- [17-03-2020](time)
+- [18-03-2020](time)
+- [19-03-2020](time)
+- [20-03-2020](time)
+- [21-03-2020](time)
+- [22-03-2020](time)
+- [23-03-2020](time)
+- [24-03-2020](time)
+- [25-03-2020](time)
+- [26-03-2020](time)
+- [27-03-2020](time)
+- [28-03-2020](time)
+- [29-03-2020](time)
+- [30-03-2020](time)
+- [31-03-2020](time)
+- [1-03-2020](time)
+- [2-03-2020](time)
+- [3-03-2020](time)
+- [4-03-2020](time)
+- [5-03-2020](time)
+- [6-03-2020](time)
+- [7-03-2020](time)
+- [8-03-2020](time)
+- [9-03-2020](time)
+- [10-03-2020](time)
+- [11-03-2020](time)
+- [12-03-2020](time)
+- [13-03-2020](time)
+- [14-03-2020](time)
+- [15-03-2020](time)
+- [16-03-2020](time)
+- [17-03-2020](time)
+- [18-03-2020](time)
+- [19-03-2020](time)
+- [20-03-2020](time)
+- [21-03-2020](time)
+- [22-03-2020](time)
+- [23-03-2020](time)
+- [24-03-2020](time)
+- [25-03-2020](time)
+- [26-03-2020](time)
+- [27-03-2020](time)
+- [28-03-2020](time)
+- [29-03-2020](time)
+- [30-03-2020](time)
+- [31-03-2020](time)
+- [1-03-2020](time)
+- [2-03-2020](time)
+- [3-03-2020](time)
+- [4-03-2020](time)
+- [5-03-2020](time)
+- [6-03-2020](time)
+- [7-03-2020](time)
+- [8-03-2020](time)
+- [9-03-2020](time)
+- [10-03-2020](time)
+- [11-03-2020](time)
+- [12-03-2020](time)
+- [13-03-2020](time)
+- [14-03-2020](time)
+- [15-03-2020](time)
+- [16-03-2020](time)
+- [17-03-2020](time)
+- [18-03-2020](time)
+- [19-03-2020](time)
+- [20-03-2020](time)
+- [21-03-2020](time)
+- [22-03-2020](time)
+- [23-03-2020](time)
+- [24-03-2020](time)
+- [25-03-2020](time)
+- [26-03-2020](time)
+- [27-03-2020](time)
+- [28-03-2020](time)
+- [29-03-2020](time)
+- [30-03-2020](time)
+- [31-03-2020](time)
