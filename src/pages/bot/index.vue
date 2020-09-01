@@ -100,12 +100,22 @@ export default {
     ...mapMutations('bot', ['setIntentions']),
     ...mapActions('bot', ['getIntentions']),
     checkMD(files) {
-      return files.filter(file => file.type === 'text/markdown');
+      return files.filter(file => {
+        const res = file.type === 'text/markdown' || file.type === '';
+        console.log('checkMD:', res);
+        return res;
+      });
     },
     checkCSV(files) {
-      return files.filter(file => file.type === 'text/csv');
+      return files.filter(file => {
+        const res =
+          file.type === 'text/csv' || file.type === 'application/vnd.ms-excel';
+        console.log('checkMD:', res);
+        return res;
+      });
     },
     onRejected(rejectedEntries) {
+      console.log('rejectedEntries:', rejectedEntries);
       this.$q.notify({
         type: 'negative',
         message: `${rejectedEntries.length} El archivo no posee la extension solicitada`
