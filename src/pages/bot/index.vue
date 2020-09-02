@@ -1,70 +1,88 @@
 <template>
   <div>
     <div v-if="!initOK">
-      <div class="row justify-center">
-        <q-card
-          :class="{ fileSelected: fileMD !== null }"
-          class="col fileCard text-white shadow-11"
-          style="background: radial-gradient(circle, #44aaff 0%, #4488bb 100%)"
-        >
-          <q-card-section>
-            <div class="text-h6">Ejemplos</div>
-            <div class="text-subtitle2">Archivo *.md</div>
-            <div class="q-pa-xs">
-              <q-file
-                style="margin-top:20px"
-                clearable
-                bg-color="white"
-                filled
-                color="white"
-                v-model="fileMD"
-                bottom-slots
-                counter
-                label="subir archivo"
-                :filter="checkMD"
-                @rejected="onRejected"
-              >
-              </q-file>
-            </div>
-          </q-card-section>
-        </q-card>
-        <q-card
-          :class="{ fileSelected: fileCSV !== null }"
-          class="col fileCard text-white shadow-11"
-          style="background: radial-gradient(circle, #44aaff 0%, #4488bb 100%)"
-        >
-          <q-card-section>
-            <div class="text-h6">Respuestas</div>
-            <div class="text-subtitle2">Archivo *.csv</div>
-            <div class="q-pa-xs">
-              <q-file
-                style="margin-top:20px"
-                clearable
-                bg-color="white"
-                filled
-                color="white"
-                v-model="fileCSV"
-                bottom-slots
-                counter
-                label="subir archivo"
-                :filter="checkCSV"
-                @rejected="onRejected"
-              >
-              </q-file>
-            </div>
-          </q-card-section>
-        </q-card>
-      </div>
-      <div class="row justify-center" v-if="fileMD && fileCSV">
-        <q-btn
-          glossy
-          color="purple"
-          icon="school"
-          icon-right="send"
-          label="Continuar..."
-          @click="processFiles"
-        />
-      </div>
+      <q-card class="frameCard">
+        <q-card-section>
+          <div class="row justify-center">
+            <q-card
+              :class="{ fileSelected: fileMD !== null }"
+              class="col fileCard text-white shadow-11"
+              style="background: radial-gradient(circle, #44aaff 0%, #4488bb 100%)"
+            >
+              <q-card-section>
+                <div class="text-h6">Ejemplos</div>
+                <div class="text-subtitle2">Archivo *.md</div>
+                <div class="q-pa-xs">
+                  <q-file
+                    style="margin-top:20px"
+                    clearable
+                    bg-color="white"
+                    filled
+                    color="white"
+                    v-model="fileMD"
+                    bottom-slots
+                    counter
+                    label="subir archivo"
+                    :filter="checkMD"
+                    @rejected="onRejected"
+                  >
+                  </q-file>
+                </div>
+              </q-card-section>
+            </q-card>
+            <q-card
+              :class="{ fileSelected: fileCSV !== null }"
+              class="col fileCard text-white shadow-11"
+              style="background: radial-gradient(circle, #44aaff 0%, #4488bb 100%)"
+            >
+              <q-card-section>
+                <div class="text-h6">Respuestas</div>
+                <div class="text-subtitle2">Archivo *.csv</div>
+                <div class="q-pa-xs">
+                  <q-file
+                    style="margin-top:20px"
+                    clearable
+                    bg-color="white"
+                    filled
+                    color="white"
+                    v-model="fileCSV"
+                    bottom-slots
+                    counter
+                    label="subir archivo"
+                    :filter="checkCSV"
+                    @rejected="onRejected"
+                  >
+                  </q-file>
+                </div>
+              </q-card-section>
+            </q-card>
+          </div>
+          <div class="row justify-center" v-if="fileMD && fileCSV">
+            <q-btn
+              glossy
+              color="purple"
+              icon="school"
+              icon-right="send"
+              label="Continuar..."
+              @click="processFiles"
+            />
+          </div>
+        </q-card-section>
+      </q-card>
+      <q-card class="frameCard">
+        <q-card-section>
+          <div class="row justify-center">
+            <q-btn
+              glossy
+              color="purple"
+              icon="school"
+              icon-right="send"
+              label="Continuar modo automático"
+              @click="initOK = true"
+            />
+          </div>
+        </q-card-section>
+      </q-card>
     </div>
     <q-splitter v-if="initOK" v-model="splitterModel">
       <template v-slot:before>
@@ -214,6 +232,12 @@ export default {
 </script>
 
 <style scoped>
+.frameCard {
+  width: 80vw;
+  height: 400px;
+  margin: 30px;
+  background: lightgray;
+}
 .fileCard {
   max-width: 40vw;
   height: 250px;
