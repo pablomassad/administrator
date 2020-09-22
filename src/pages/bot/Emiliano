@@ -27,7 +27,7 @@ El servicio guarda la informacion modificada en JSON:
  - Abro archivo NLU, merge y grabo el mismo archivo (averiguar si se dejan copias y grabar LOG auditoria)
  - Abro archivo CSV, merge y grabo el mismo archivo
 
- (Los archivos deben ir sin acentos y en minusculas)
+ (Los archivos deben ir sin acentos y en minusculas) (unicamente las intenciones y sus ejemplos)
 
 
 Existe otro archivo nlu.md del bot master que tiene una intencion particualar llamada info
