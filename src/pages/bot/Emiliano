@@ -24,10 +24,32 @@ Ej:
 
 Al salir de la edicion pide guardar  => manda cambios JSON modificado al servicio.
 El servicio guarda la informacion modificada en JSON:
- - Abro archivo NLU, merge y grabo el mismo archivo (averiguar si se dejan copias y grabar LOG auditoria)
- - Abro archivo CSV, merge y grabo el mismo archivo
 
- (Los archivos deben ir sin acentos y en minusculas) (unicamente las intenciones y sus ejemplos)
+
+KBS folder
+  |
+  --> NLU.md
+  --> stories.md
+  --> config.yml
+  --> domain.yml
+  --> respuestas.csv
+
+
+BM folder
+  |
+  --> NLU.md (MASTER)
+  --> stories.md
+  --> config.yml
+  --> domain.yml
+  --> respuestas.csv
+
+
+[Estas dos carpetas son hijas de cada BOT]
+
+- Abro archivo NLU, merge y grabo el mismo archivo (grabar LOG auditoria) (carpeta )
+ (Los archivos deben ir sin acentos y en minusculas) (NLU.md / unicamente las intenciones y sus ejemplos)
+
+- Abro archivo CSV, merge y grabo el mismo archivo
 
 
 Existe otro archivo nlu.md del bot master que tiene una intencion particualar llamada info
@@ -37,7 +59,13 @@ Existen alguna excepciones de grabacion en el INFO:
 Las intenciones que empiecen con @ NO se graban en el master
 En el front (no se debe mostrar el @)
 
+Dependiendo del perfil de usuario se podra modificar o no las respuestas
+Dependiendo del perifl de usuario el archivo CSV se guardara en un path de botFarm diferente
 
+
+
+
+Armar archivo de configuracion (webserver.config) con los path y parametros de todo el sistema
 
 
 
@@ -76,5 +104,8 @@ Boton de "Entrenamiento PROD" => ejecuta lo mismo que testing pero en otro entor
 LOG de cada accion x usuario
 
 Luego del entrenamiento:=> probar intenciones con ejemplos
+
+
+
 
 

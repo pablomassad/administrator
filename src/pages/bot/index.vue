@@ -69,20 +69,6 @@
           </div>
         </q-card-section>
       </q-card>
-      <q-card class="frameCard">
-        <q-card-section>
-          <div class="row justify-center">
-            <q-btn
-              glossy
-              color="purple"
-              icon="school"
-              icon-right="send"
-              label="Continuar modo automático"
-              @click="initOK = true"
-            />
-          </div>
-        </q-card-section>
-      </q-card>
     </div>
     <q-splitter v-if="initOK" v-model="splitterModel">
       <template v-slot:before>
